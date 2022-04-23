@@ -1,0 +1,101 @@
+Pet ID,Organization ID,City,State,Breed,Age,Gender,Size,Spayed or Neutered,House Trained,Special Needs,Shots Current,Good With Children
+54364647,GA627,Decatur,GA,American Bulldog,Young,Female,Medium,True,True,False,True,True
+54805223,GA204,Danielsville,GA,Staffordshire Bull Terrier,Adult,Male,Large,True,True,False,True,False
+54256149,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,True,False,False,False,
+54803078,GA718,Columbus,GA,Black Labrador Retriever,Young,Female,Medium,False,False,False,True,
+50965101,GA353,Monroe,GA,Beagle,Young,Male,Small,True,True,False,True,False
+55082091,GA357,Lawrenceville,GA,American Staffordshire Terrier,Adult,Female,Medium,True,False,False,True,
+54673729,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,True,False,False,False,
+55337855,GA150,Madison,GA,Shepherd,Baby,Female,Medium,True,False,False,True,
+55310357,GA423,Chamblee,GA,Mixed Breed,Young,Female,Small,False,False,False,False,
+55238640,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,False,False,False,False,
+55326597,GA217,Atlanta,GA,German Shepherd Dog,Young,Male,Large,False,False,False,False,
+54806554,GA875,Atlanta,GA,Labradoodle,Adult,Male,Large,True,False,False,True,
+55272888,GA357,Lawrenceville,GA,Shepherd,Adult,Male,Large,True,False,False,True,
+55311731,GA299,Douglasville,GA,Boxer,Adult,Male,Medium,False,False,False,True,
+55362051,GA718,Columbus,GA,Labrador Retriever,Baby,Female,Small,True,False,False,True,
+54987588,GA926,Tyrone,GA,Pit Bull Terrier,Baby,Male,Small,True,False,False,True,
+37184690,GA244,Monticello,GA,Chihuahua,Senior,Female,Small,True,True,False,True,True
+55381015,GA357,Lawrenceville,GA,Shih Tzu,Adult,Male,Small,False,False,False,True,
+54787546,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,True,False,False,False,
+54621119,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,False,False,False,False,
+54604366,GA423,Chamblee,GA,Mixed Breed,Senior,Male,Medium,False,False,False,False,
+54461702,GA862,Athens,GA,Mixed Breed,Young,Female,Large,True,False,False,False,False
+55204810,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,True,False,False,False,
+55266320,GA217,Atlanta,GA,German Shepherd Dog,Young,Male,Large,True,False,False,False,
+55197977,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,False,False,False,False,
+55192670,GA665,Peachtree City,GA,Australian Kelpie,Baby,Male,Medium,False,False,False,False,
+55351860,GA247,Covington,GA,Boxer,Baby,Female,Medium,False,False,False,True,
+52834950,GA1020,Jackson,GA,American Staffordshire Terrier,Young,Male,Medium,True,False,False,True,
+55205833,GA926,Tyrone,GA,Pit Bull Terrier,Baby,Female,Small,False,False,False,True,
+55039178,GA217,Atlanta,GA,Labrador Retriever,Young,Male,Large,True,False,False,False,
+55074697,GA890,Griffin,GA,Pit Bull Terrier,Young,Female,Medium,True,False,False,True,True
+55311493,GA99,Macon,GA,Mixed Breed,Young,Male,Large,False,False,False,False,
+55365463,GA217,Atlanta,GA,Labrador Retriever,Baby,Male,Small,False,False,False,False,
+55327937,GA357,Lawrenceville,GA,Shepherd,Adult,Female,Large,True,False,False,True,
+55112620,GA718,Columbus,GA,Black Labrador Retriever,Adult,Male,Medium,True,False,False,True,
+53364994,GA809,Atlanta,GA,Treeing Walker Coonhound,Adult,Female,Large,True,False,False,False,True
+51084170,GA216,Eastman,GA,Shepherd,Young,Male,Medium,True,False,False,True,
+55108587,GA1025,Waynesboro,GA,Shepherd,Adult,Female,Large,False,False,False,True,
+54255604,GA423,Chamblee,GA,Mixed Breed,Senior,Female,Medium,True,False,False,False,
+55037343,GA76,Winder,GA,American Bulldog,Young,Female,Medium,False,False,False,False,
+55314035,GA217,Atlanta,GA,Pit Bull Terrier,Baby,Male,Small,True,False,False,False,
+54959697,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,True,False,False,False,
+54788716,GA535,Dunwoody,GA,Mixed Breed,Adult,Female,Medium,True,False,False,True,
+53947455,GA217,Atlanta,GA,German Shepherd Dog,Young,Female,Medium,True,False,False,False,
+55034531,GA66,Albany,GA,Labrador Retriever,Adult,Male,Medium,False,False,False,True,
+54842620,GA918,Marshallville,GA,Labrador Retriever,Adult,Male,Medium,True,True,False,True,
+54255531,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,True,False,False,False,
+34276515,GA667,Newnan,GA,Great Pyrenees,Young,Male,Extra Large,True,False,False,True,
+54407022,GA508,Atlanta,GA,Labrador Retriever,Young,Male,Medium,True,True,False,True,
+55151915,GA1010,Ellaville,GA,Labrador Retriever,Adult,Female,Medium,True,True,False,True,True
+55034611,GA66,Albany,GA,Bull Terrier,Adult,Male,Medium,False,False,False,True,
+54817093,GA857,Norwood,GA,Cane Corso,Adult,Male,Extra Large,True,True,True,True,
+55349844,GA59,Milledgeville,GA,Chiweenie,Young,Male,Small,True,False,False,True,
+50892249,GA988,Albany,GA,Pit Bull Terrier,Adult,Female,Medium,True,True,False,True,True
+55034516,GA66,Albany,GA,Mixed Breed,Adult,Female,Medium,False,False,False,True,
+53480505,GA152,Washington,GA,Pit Bull Terrier,Adult,Female,Large,False,False,False,True,True
+54497123,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,True,False,False,False,
+55278531,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,False,False,False,False,
+55299236,GA99,Macon,GA,Mixed Breed,Baby,Female,Small,False,False,False,False,
+54803751,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,False,False,False,False,
+55181420,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,True,False,False,False,
+55365043,GA299,Douglasville,GA,Pit Bull Terrier,Baby,Male,Medium,True,False,False,True,
+55302247,GA357,Lawrenceville,GA,Labrador Retriever,Young,Female,Large,True,False,False,True,
+54255894,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,True,False,False,False,
+55192599,GA535,Dunwoody,GA,Mixed Breed,Young,Female,Medium,True,False,False,True,
+53945164,GA508,Atlanta,GA,Labrador Retriever,Senior,Male,Medium,True,True,False,True,
+55205835,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Male,Large,True,False,False,True,
+55065410,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,False,False,False,False,
+55324390,GA718,Columbus,GA,Hound,Baby,Male,Small,False,False,False,True,
+55375498,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Large,True,False,False,True,
+55015824,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Female,Large,False,False,False,True,
+55276399,GA76,Winder,GA,Boxer,Baby,Male,Large,True,True,False,False,True
+36429068,GA698,Snellville,GA,Rat Terrier,Adult,Male,Small,True,True,False,True,False
+54957700,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Large,True,False,False,False,
+47678331,GA902,Augusta,GA,Shar-Pei,Adult,Male,Large,False,False,False,False,
+52289737,GA553,Warner Robins,GA,Black Labrador Retriever,Baby,Female,Medium,False,True,True,True,True
+54627867,GA204,Danielsville,GA,Mixed Breed,Young,Male,Medium,True,False,False,True,
+55361219,GA357,Lawrenceville,GA,Labrador Retriever,Adult,Female,Medium,False,False,False,True,
+55276687,GA76,Winder,GA,Labrador Retriever,Young,Male,Medium,True,False,False,False,
+52740334,GA163,Social Circle,GA,Pit Bull Terrier,Adult,Male,Medium,True,False,False,True,False
+55103786,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,True,False,False,False,
+51906420,GA160,Bogart,GA,Shepherd,Adult,Male,Medium,True,True,False,True,
+54255599,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,False,False,False,False,
+53371325,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Female,Medium,True,False,False,True,
+54472201,GA862,Athens,GA,Mixed Breed,Young,Female,Large,False,False,False,False,
+55132369,GA204,Danielsville,GA,Mixed Breed,Young,Male,Medium,True,True,False,True,True
+55331034,GA204,Danielsville,GA,Pit Bull Terrier,Adult,Male,Medium,True,True,False,True,True
+51580444,GA718,Columbus,GA,American Bulldog,Adult,Female,Medium,True,False,False,True,
+55362542,GA335,Atlanta,GA,Mixed Breed,Adult,Male,Large,True,False,False,False,
+55363069,GA257,Appling,GA,Labrador Retriever,Adult,Male,Large,False,False,False,False,
+55380260,GA75,Hamilton,GA,Terrier,Adult,Female,Medium,True,False,False,False,
+55104289,GA1020,Jackson,GA,Staffordshire Bull Terrier,Young,Male,Medium,True,False,False,True,True
+54519926,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Female,Medium,False,False,False,True,
+55338330,GA336,Lawrenceville,GA,Chihuahua,Adult,Female,Small,True,False,False,True,False
+55319638,GA357,Lawrenceville,GA,Labrador Retriever,Adult,Female,Medium,True,False,False,True,
+55155664,GA357,Lawrenceville,GA,Siberian Husky,Adult,Male,Medium,True,False,False,True,
+55276082,GA207,Newnan,GA,Pomeranian,Young,Male,Small,True,True,False,True,
+55045169,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,False,False,False,False,
+53622090,GA217,Atlanta,GA,Labrador Retriever,Adult,Female,Medium,True,False,False,False,
+54870516,GA76,Winder,GA,Boxer,Young,Female,Large,True,False,False,False,True
