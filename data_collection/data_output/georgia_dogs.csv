@@ -1,0 +1,833 @@
+Pet ID,Name,Status,Publish Date,Organization ID,City,State,Breed,Age,Gender,Size,Coat,Spayed or Neutered,House Trained,Special Needs,Shots Current
+54858447,Boon,adoptable,2022-03-04T18:10:57+0000,GA862,Athens,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54802620,CASPER,adoptable,2022-03-01T19:01:22+0000,GA99,Macon,GA,Mixed Breed,Young,Male,Medium,,True,False,False,False
+55368350,Giacomo (in foster),adoptable,2022-04-22T00:06:14+0000,GA335,Atlanta,GA,Mixed Breed,Young,Male,Small,,True,False,False,False
+55179362,Loki,adoptable,2022-04-01T16:52:47+0000,GA340,Tucker,GA,Labrador Retriever,Adult,Male,Large,Short,True,True,True,True
+55331643,QUEEN,adoptable,2022-04-18T16:56:32+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,False,False,False,False
+51906420,Iroh,adoptable,2021-06-11T18:20:39+0000,GA160,Bogart,GA,Shepherd,Adult,Male,Medium,Short,True,True,False,True
+55034597,West,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Mixed Breed,Young,Male,Medium,,False,False,False,True
+54255524,Dougie,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+54338315,Paige,adoptable,2022-01-22T19:31:38+0000,GA168,Perry,GA,American Bulldog,Adult,Female,Medium,,True,True,False,True
+54786374,Bobby Flame,adoptable,2022-02-28T16:01:45+0000,GA299,Douglasville,GA,Pit Bull Terrier,Young,Female,Large,,True,False,False,True
+54142621,Lunasia,adoptable,2022-01-08T04:01:42+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,True
+55318424,Nugget,adoptable,2022-04-16T16:06:19+0000,GA251,Atlanta,GA,Mixed Breed,Senior,Male,Large,,True,False,False,False
+55380258,Hashbrown,adoptable,2022-04-23T08:29:00+0000,GA75,Hamilton,GA,Terrier,Adult,Male,Medium,,True,False,False,False
+55005287,Count,adoptable,2022-03-17T00:23:03+0000,GA537,Dacula,GA,German Shepherd Dog,Young,Male,Large,,True,True,False,True
+55034588,Champ,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Pit Bull Terrier,Young,Male,Medium,,False,False,False,True
+54255898,Sweet Feathers - IN FOSTER,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+54255749,MailBox - IN FOSTER,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55353705,Fifi,adoptable,2022-04-20T19:08:04+0000,GA59,Milledgeville,GA,Weimaraner,Baby,Female,Medium,Short,True,False,False,True
+51630970,William,adoptable,2021-05-22T20:09:58+0000,GA244,Monticello,GA,Terrier,Baby,Male,Small,Short,True,True,False,True
+55283219,Zion - IN FOSTER,adoptable,2022-04-12T19:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+50893076,Boaz,adoptable,2021-03-16T19:38:37+0000,GA857,Norwood,GA,Cane Corso,Young,Male,Extra Large,Short,True,True,False,True
+54887089,Dash,adoptable,2022-03-07T01:06:21+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55217484,Chocolate Chip,adoptable,2022-04-05T19:13:24+0000,GA163,Social Circle,GA,Hound,Baby,Male,Medium,,True,False,False,True
+45807366,Luna,adoptable,2019-08-31T10:01:15+0000,GA174,Forsyth,GA,Terrier,Adult,Female,Medium,,True,True,False,False
+55064202,Brutus,adoptable,2022-03-22T10:06:17+0000,GA66,Albany,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,True
+55249557,Lou,adoptable,2022-04-08T18:42:23+0000,GA680,Atlanta,GA,Beagle,Senior,Male,Small,,True,False,False,True
+54677508,SUN,adoptable,2022-02-19T01:41:48+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+55269355,Togedemaru,adoptable,2022-04-11T16:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Young,Female,Medium,,False,False,False,False
+55298930,Arjun,adoptable,2022-04-14T14:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Young,Female,Medium,,False,False,False,False
+55020619,Leo 03-1856,adoptable,2022-03-18T15:25:11+0000,GA926,Tyrone,GA,Hound,Baby,Male,Small,,True,False,False,True
+55065410,Ignacio,adoptable,2022-03-22T14:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55397147,Sunshine,adoptable,2022-04-25T17:31:14+0000,GA247,Covington,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,True
+54973559,Pen 168c Blue,adoptable,2022-03-14T20:01:18+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+54793742,Novella,adoptable,2022-02-28T23:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+54486945,Zoey,adoptable,2022-02-02T19:36:29+0000,GA620,Barnesville,GA,German Shepherd Dog,Adult,Female,Medium,,False,False,False,False
+55301502,Rooster,adoptable,2022-04-14T18:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+53945164,Ike,adoptable,2021-12-18T19:55:35+0000,GA508,Atlanta,GA,Labrador Retriever,Senior,Male,Medium,,True,True,False,True
+52382807,Gertie,adoptable,2021-07-17T17:23:13+0000,GA919,Atlanta,GA,Rottweiler,Senior,Female,Medium,Short,True,True,False,True
+55034604,Rosie,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,False
+55252504,BRUCE,adoptable,2022-04-08T23:40:39+0000,GA219,Augusta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+21938817,Binky,adoptable,2012-01-10T18:07:29+0000,GA665,Peachtree City,GA,American Staffordshire Terrier,Adult,Male,Medium,Short,True,True,False,True
+55355751,Extra-ADOPTED,adoptable,2022-04-20T21:06:21+0000,GA423,Chamblee,GA,Mixed Breed,Baby,Female,Small,,False,False,False,False
+55302810,Nyla (St Nick),adoptable,2022-04-14T19:35:21+0000,GA787,Peachtree City,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,True
+55265905,MR.GRINCH,adoptable,2022-04-11T00:50:20+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+55109682,DIOR,adoptable,2022-03-25T16:59:05+0000,GA217,Atlanta,GA,Pit Bull Terrier,Baby,Male,Small,,True,False,False,False
+55142816,Gwen 9710,adoptable,2022-03-29T15:50:10+0000,GA181,Columbus,GA,Mixed Breed,Young,Female,Large,,True,False,False,True
+55358114,Fisher,adoptable,2022-04-21T00:28:44+0000,GA1028,Warner Robins,GA,Husky,Young,Male,Medium,,False,True,False,True
+54252713,Lucinda,adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+55350575,Alex #8531,adoptable,2022-04-20T15:09:00+0000,GA232,Monroe,GA,Pit Bull Terrier,Adult,Male,Medium,,False,False,False,False
+55284890,Bently,adoptable,2022-04-12T21:06:29+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,False
+54255515,Banjo,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55024810,Tullulah (in foster),adoptable,2022-03-18T18:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Young,Female,Large,,True,False,False,False
+55127111,Fluffy,adoptable,2022-03-27T17:42:44+0000,GA319,Peachtree City,GA,Black Labrador Retriever,Adult,Male,Medium,Medium,False,False,False,True
+55234887,Thor,adoptable,2022-04-07T10:06:04+0000,GA66,Albany,GA,Shepherd,Adult,Male,Small,,True,False,False,True
+54947622,Apollo,adoptable,2022-03-12T00:23:23+0000,GA477,Greensboro,GA,Pit Bull Terrier,Adult,Male,Large,Short,True,True,False,True
+55401520,Coco Jr,adoptable,2022-04-25T23:01:42+0000,GA299,Douglasville,GA,Terrier,Adult,Male,Small,,False,False,False,True
+55312914,AFGHAN,adoptable,2022-04-15T20:43:57+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,False
+54050308,Chief,adoptable,2021-12-30T02:01:13+0000,GA930,Covington,GA,German Shepherd Dog,Adult,Male,Large,Medium,True,True,False,True
+45287353,Midge Maisel,adoptable,2019-07-18T00:13:38+0000,GA256,Clarkston,GA,Terrier,Adult,Female,Medium,Short,True,True,False,True
+54965128,CHEESE PUFF,adoptable,2022-03-13T22:32:40+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+55388557,Trevor,adoptable,2022-04-24T16:01:53+0000,GA461,Barnesville,GA,Pit Bull Terrier,Adult,Male,Large,Short,True,True,False,True
+55045169,Newman- ADOPTED,adoptable,2022-03-20T16:06:17+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55336036,Dexter,adoptable,2022-04-18T23:53:42+0000,GA997,Augusta,GA,Rottweiler,Young,Male,Large,Short,True,True,False,True
+54959699,COOLATA,adoptable,2022-03-13T01:58:28+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55401216,MARLEY,adoptable,2022-04-25T22:32:02+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Female,Medium,,False,False,False,False
+55178565,AVOCADO,adoptable,2022-04-01T16:33:53+0000,GA219,Augusta,GA,Labrador Retriever,Young,Female,Large,,True,False,False,False
+54421102,Zeus (Formerly Atlas),adoptable,2022-01-28T17:06:14+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+30186097,Winston,adoptable,2014-09-02T17:47:19+0000,GA652,Atlanta,GA,Labrador Retriever,Adult,Male,Large,Short,True,True,False,True
+55394203,Dh-16c Choji,adoptable,2022-04-25T13:46:21+0000,GA357,Lawrenceville,GA,Labrador Retriever,Adult,Male,Medium,,True,False,False,True
+24003636,Lexi,adoptable,2012-09-01T00:00:26+0000,GA652,Atlanta,GA,American Staffordshire Terrier,Adult,Female,Medium,Short,True,True,False,True
+55039755,MIRABEL,adoptable,2022-03-19T20:01:35+0000,GA217,Atlanta,GA,Cane Corso,Adult,Female,Large,,True,False,False,False
+55034511,Libby,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Mixed Breed,Young,Female,Medium,,True,False,False,True
+55034540,Jeffery,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,True
+55095924,Maverick,adoptable,2022-03-24T15:27:58+0000,GA902,Augusta,GA,Australian Cattle Dog / Blue Heeler,Baby,Male,Medium,Short,False,False,False,True
+54464398,Pimm,adoptable,2022-01-31T22:29:25+0000,GA862,Athens,GA,Mixed Breed,Young,Male,Large,,True,False,False,False
+55360281,Bean,adoptable,2022-04-21T12:25:22+0000,GA926,Tyrone,GA,Labrador Retriever,Adult,Male,Small,,True,False,False,True
+54711647,Boren (run 26) ,adoptable,2022-02-22T18:40:23+0000,GA733,Columbus,GA,Mixed Breed,Adult,Male,Large,Short,True,False,False,True
+54256086,Dempsey,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55326098,RASCAL,adoptable,2022-04-17T21:53:11+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+55214960,Nicholas Sparks,adoptable,2022-04-05T17:06:14+0000,GA335,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+54282034,Ruth,adoptable,2022-01-18T22:11:59+0000,GA914,Decatur,GA,Mixed Breed,Adult,Female,Large,Short,True,False,False,True
+54829064,Dutton,adoptable,2022-03-03T03:29:26+0000,GA163,Social Circle,GA,Pit Bull Terrier,Adult,Male,Large,,True,True,False,True
+55308148,BLOSSOM,adoptable,2022-04-15T13:42:14+0000,GA257,Appling,GA,Pit Bull Terrier,Young,Female,Small,,False,False,False,False
+55348219,Macey,adoptable,2022-04-20T04:41:09+0000,GA353,Monroe,GA,Schnoodle,Baby,Female,Medium,Short,True,True,False,True
+54252853,Elliot,adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Young,Male,Medium,,True,False,False,False
+53445626,Denny 10-2641,adoptable,2021-11-02T20:25:15+0000,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+55280936,Baguette,adoptable,2022-04-12T16:01:42+0000,GA1025,Waynesboro,GA,Pit Bull Terrier,Adult,Male,Medium,,False,False,False,True
+53947455,AGGY,adoptable,2021-12-19T00:40:00+0000,GA217,Atlanta,GA,German Shepherd Dog,Young,Female,Medium,,True,False,False,False
+55079952,Domino,adoptable,2022-03-23T13:04:25+0000,GA144,Conyers,GA,Jack Russell Terrier,Baby,Male,Small,Short,False,False,False,True
+55391622,PETUNIA,adoptable,2022-04-24T23:57:40+0000,GA217,Atlanta,GA,English Bulldog,Adult,Female,Medium,,False,False,False,False
+55034531,Sammy,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Labrador Retriever,Adult,Male,Medium,,False,False,False,True
+53058563,Dalton,adoptable,2021-09-22T18:58:15+0000,GA1020,Jackson,GA,Labrador Retriever,Young,Male,Medium,,True,False,False,True
+55254242,Cowgirl,adoptable,2022-04-09T07:56:48+0000,GA75,Hamilton,GA,Terrier,Adult,Female,Medium,,True,False,False,False
+50879043,Rufio,adoptable,2021-03-15T17:44:15+0000,GA997,Augusta,GA,American Staffordshire Terrier,Adult,Male,Large,Short,True,True,False,True
+54255511,Zamora,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Female,Large,,True,False,False,False
+55311493,COLBY,adoptable,2022-04-15T18:43:38+0000,GA99,Macon,GA,Mixed Breed,Young,Male,Large,,False,False,False,False
+55311792,Octavia,adoptable,2022-04-15T19:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Female,Large,,False,False,False,False
+55103786,PUMA,adoptable,2022-03-24T23:56:28+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+55345236,Drapion,adoptable,2022-04-19T22:06:30+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55150320,VENUS,adoptable,2022-03-30T01:49:49+0000,GA217,Atlanta,GA,Cane Corso,Adult,Female,Large,,False,False,False,False
+47706923,Oakley,adoptable,2020-03-27T01:19:56+0000,CA2261,Auburn,GA,Australian Shepherd,Young,Male,Medium,Medium,True,True,False,True
+55063790,Jubilee,adoptable,2022-03-22T10:00:20+0000,GA150,Madison,GA,Pug,Adult,Male,Medium,,True,False,False,True
+47113029,Uncle Buck,adoptable,2020-01-14T20:50:56+0000,GA914,Decatur,GA,Shepherd,Young,Male,Medium,Short,False,False,False,False
+55119598,Chewie,adoptable,2022-03-26T17:25:10+0000,GA718,Columbus,GA,Terrier,Adult,Male,Medium,,True,False,False,True
+54711741,Cujo (run 32) ,adoptable,2022-02-22T18:49:00+0000,GA733,Columbus,GA,Mixed Breed,Adult,Male,Large,Short,True,False,False,True
+54803959,Albies,adoptable,2022-03-01T20:25:09+0000,GA718,Columbus,GA,Chocolate Labrador Retriever,Adult,Male,Large,,True,False,False,True
+55338816,Morgan,adoptable,2022-04-19T13:56:10+0000,GA508,Atlanta,GA,Labrador Retriever,Adult,Male,Medium,,True,True,False,True
+54252827,Gilbert,adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Young,Male,Large,,True,False,False,False
+55349255,Beauty,adoptable,2022-04-20T13:25:49+0000,GA793,Macon,GA,Shepherd,Baby,Female,Medium,,True,False,False,True
+54657441,Barrett,adoptable,2022-02-17T18:25:31+0000,GA718,Columbus,GA,German Shepherd Dog,Senior,Male,Large,,False,False,False,True
+54252767,Lyon,adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55130864,Laurel (ready to go home MAY 2022),adoptable,2022-03-28T03:49:32+0000,NH77,Chamblee,GA,White German Shepherd,Adult,Female,Medium,,True,True,False,True
+54470529,Tasha (run 23) ,adoptable,2022-02-01T16:51:30+0000,GA733,Columbus,GA,Mixed Breed,Adult,Female,Large,Short,True,False,False,True
+55252279,Buick,adoptable,2022-04-08T23:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54987586,Maverick 03-1545,adoptable,2022-03-15T19:25:16+0000,GA926,Tyrone,GA,Pit Bull Terrier,Baby,Male,Small,,True,False,False,True
+55034513,Chris,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Pit Bull Terrier,Adult,Male,Medium,,False,False,False,True
+54929241,ICELAND,adoptable,2022-03-10T18:44:59+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,False
+54971169,Ken 03-1333,adoptable,2022-03-14T18:25:27+0000,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,True
+55032470,DUNCAN HINES,adoptable,2022-03-19T01:27:58+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+55282453,Ozzy,adoptable,2022-04-12T18:05:38+0000,GA862,Athens,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54300697,Kenya,adoptable,2022-01-20T00:01:47+0000,GA299,Douglasville,GA,Labrador Retriever,Adult,Female,Large,,False,False,False,True
+53772331,Brody,adoptable,2021-12-03T21:57:07+0000,GA168,Perry,GA,Pointer,Young,Male,Large,,True,False,False,True
+54255542,Huckle Barkle Finn,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+55175649,Enola,adoptable,2022-04-01T09:20:57+0000,GA537,Dacula,GA,German Shepherd Dog,Adult,Female,Large,,False,True,False,True
+55034609,Jester,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Bull Terrier,Young,Male,Medium,,False,False,False,True
+55259989,Radley,adoptable,2022-04-10T00:02:19+0000,GA620,Barnesville,GA,Australian Cattle Dog / Blue Heeler,Adult,Male,Medium,,False,False,False,False
+55363069,BANDIT,adoptable,2022-04-21T16:41:18+0000,GA257,Appling,GA,Labrador Retriever,Adult,Male,Large,,False,False,False,False
+55000693,Terra,adoptable,2022-03-16T19:46:50+0000,GA890,Griffin,GA,Pit Bull Terrier,Adult,Female,Medium,Short,True,True,False,True
+54734761,Draco,adoptable,2022-02-24T10:50:55+0000,GA697,Atlanta,GA,Pit Bull Terrier,Baby,Male,Large,,True,False,False,True
+54638976,A100832,adoptable,2022-02-16T13:58:07+0000,GA257,Appling,GA,Pit Bull Terrier,Adult,Male,Medium,,False,False,False,False
+54232920,Montana,adoptable,2022-01-15T09:17:15+0000,GA75,Hamilton,GA,Terrier,Adult,Female,Medium,,True,False,False,False
+55358610,HONDA,adoptable,2022-04-21T01:38:51+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Female,Medium,,True,False,False,False
+54252791,Morgan (In Foster),adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+54753619,Valerie 02-2574,adoptable,2022-02-25T17:25:18+0000,GA926,Tyrone,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,True
+54999931,Skribble 6911,adoptable,2022-03-16T18:50:13+0000,GA181,Columbus,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,True
+55205835,Steven 03-1787,adoptable,2022-04-04T19:25:10+0000,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+55293442,CODY,adoptable,2022-04-13T19:33:26+0000,GA99,Macon,GA,Labrador Retriever,Baby,Male,Small,,False,False,False,False
+55343734,ZEUS,adoptable,2022-04-19T20:03:37+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,False,False,False,False
+54256152,Smiley,adoptable,2022-01-16T22:06:41+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54958902,ROBERT DINERO,adoptable,2022-03-12T23:57:54+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+55367068,Connor,adoptable,2022-04-21T22:06:27+0000,GA423,Chamblee,GA,Mixed Breed,Young,Male,Small,,False,False,False,False
+55314258,Aleeya,adoptable,2022-04-15T23:06:30+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+55333923,Pen 109 Boi Hw+,adoptable,2022-04-18T20:00:55+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+50165123,Roxy Rocket,adoptable,2020-12-30T19:36:14+0000,GA620,Barnesville,GA,Pointer,Baby,Female,Medium,,False,False,False,True
+54636921,Isaac,adoptable,2022-02-16T04:14:53+0000,GA857,Norwood,GA,Cane Corso,Young,Male,Extra Large,,True,True,False,True
+55363434,Golett,adoptable,2022-04-21T17:06:24+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55322068,SUMMER,adoptable,2022-04-16T23:49:20+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Small,,False,False,False,False
+54421051,Hersey,adoptable,2022-01-28T17:03:42+0000,GA340,Tucker,GA,Chocolate Labrador Retriever,Adult,Male,Large,Short,True,True,False,True
+55401661,Eden,adoptable,2022-04-25T23:15:09+0000,GA553,Warner Robins,GA,Chihuahua,Baby,Female,Small,Short,False,False,False,True
+55063738,Simi,adoptable,2022-03-22T09:22:03+0000,GA537,Dacula,GA,German Shepherd Dog,Young,Female,Large,,True,False,False,True
+55257579,Pen 185 Chocolate,adoptable,2022-04-09T19:01:11+0000,GA357,Lawrenceville,GA,Staffordshire Bull Terrier,Young,Female,Medium,,True,False,False,True
+53594602,Jurgen,adoptable,2021-11-17T20:28:33+0000,GA680,Atlanta,GA,Boxer,Young,Male,Medium,,True,True,False,True
+54255520,Waka Flocka Flame,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55099242,Jonah,adoptable,2022-03-24T19:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,False
+50244523,Piper,adoptable,2021-01-17T14:13:12+0000,AL48,Atlanta,GA,Weimaraner,Adult,Female,Large,Short,True,True,True,True
+54255544,Rango,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55119433,Banana Foster-ADOPTED,adoptable,2022-03-26T17:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+54973626,Missy,adoptable,2022-03-14T20:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55274908,Willy,adoptable,2022-04-11T22:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54182350,Buster 01-1133,adoptable,2022-01-11T21:25:13+0000,GA926,Tyrone,GA,Beagle,Young,Male,Medium,,True,False,False,True
+55377296,MILTON,adoptable,2022-04-22T21:47:58+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,False,False,False,False
+55079945,Tank,adoptable,2022-03-23T13:00:49+0000,GA144,Conyers,GA,Jack Russell Terrier,Baby,Male,Small,Short,False,False,False,True
+54507205,Chou-IN FOSTER,adoptable,2022-02-04T02:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Female,Large,,True,False,False,False
+55376081,Pumkin,adoptable,2022-04-22T20:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Baby,Female,Small,,False,False,False,False
+55264932,Cacnea,adoptable,2022-04-10T22:06:15+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+54908714,Caterpillar,adoptable,2022-03-09T00:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Senior,Male,Large,,True,False,False,False
+55372033,RUSTY,adoptable,2022-04-22T14:45:43+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Male,Medium,,False,False,False,False
+55401456,Hope,adoptable,2022-04-25T22:56:55+0000,GA553,Warner Robins,GA,Terrier,Baby,Female,Medium,Short,False,False,False,True
+55139948,Ginny,adoptable,2022-03-29T10:03:50+0000,GA66,Albany,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,True
+55319568,Mika,adoptable,2022-04-16T18:06:26+0000,GA423,Chamblee,GA,Mixed Breed,Young,Female,Medium,,False,False,False,False
+55390627,Lucy,adoptable,2022-04-24T21:06:14+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+54489698,Nina,adoptable,2022-02-02T23:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Female,Large,,True,False,False,False
+53996737,Pen 176 Mcfly Hw Tx,adoptable,2021-12-23T20:16:14+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,True
+55195468,Stella,adoptable,2022-04-03T17:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Young,Female,Large,,True,False,False,False
+55290494,Georgie ,adoptable,2022-04-13T16:15:21+0000,GA18,Jonesboro,GA,Terrier,Adult,Male,Small,Short,True,False,False,True
+55292246,Pen 156 Heyoo,adoptable,2022-04-13T18:15:56+0000,GA357,Lawrenceville,GA,Border Collie,Young,Male,Large,,True,False,False,True
+55034555,Prince,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Labrador Retriever,Young,Male,Medium,,False,False,False,True
+29033899,Skylar,adoptable,2014-04-20T12:27:21+0000,GA08,Mcdonough,GA,German Shepherd Dog,Adult,Female,Large,,True,False,False,True
+55308520,Trundle,adoptable,2022-04-15T14:40:43+0000,GA793,Macon,GA,Catahoula Leopard Dog,Baby,Male,Medium,,True,False,False,True
+55310591,Brock,adoptable,2022-04-15T17:25:12+0000,GA718,Columbus,GA,American Bulldog,Baby,Male,Medium,,True,False,False,True
+55034535,Magnolia,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Mixed Breed,Young,Female,Medium,,False,False,False,True
+55343851,Trafalgar,adoptable,2022-04-19T20:06:25+0000,GA423,Chamblee,GA,Mixed Breed,Young,Male,Medium,,False,False,False,False
+54253005,Colonel,adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55281514,EARL,adoptable,2022-04-12T16:57:43+0000,GA99,Macon,GA,Pit Bull Terrier,Adult,Male,Medium,,False,False,False,False
+55034518,Buttermilk,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Terrier,Adult,Male,Small,,False,True,False,True
+51607763,Ranger,adoptable,2021-05-20T21:37:26+0000,GA918,Marshallville,GA,Great Dane,Young,Male,Large,Short,True,True,False,True
+53471111,Lil Mama,adoptable,2021-11-05T01:25:14+0000,GA76,Winder,GA,American Staffordshire Terrier,Adult,Female,Large,,False,False,False,True
+55185430,Holly,adoptable,2022-04-02T00:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55383284,Stanford,adoptable,2022-04-23T18:06:21+0000,GA251,Atlanta,GA,Chihuahua,Senior,Male,Small,,True,False,False,False
+55395927,Sd4,adoptable,2022-04-25T16:01:32+0000,GA357,Lawrenceville,GA,Labrador Retriever,Adult,Male,Large,,False,False,False,True
+55307674,Nena,adoptable,2022-04-15T10:06:01+0000,GA66,Albany,GA,Pit Bull Terrier,Adult,Female,Large,,False,False,False,True
+55276399,Cash,adoptable,2022-04-12T00:42:42+0000,GA76,Winder,GA,Boxer,Baby,Male,Large,,True,True,False,False
+55382715,Gucci Mane,adoptable,2022-04-23T17:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+53445604,Kennedy Davenport,adoptable,2021-11-02T20:22:54+0000,GA941,Decatur,GA,Shih Tzu,Young,Male,Medium,,True,False,False,False
+54606974,LOVE,adoptable,2022-02-13T01:44:30+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+55264931,Ekans,adoptable,2022-04-10T22:06:14+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+50277541,Cooper,adoptable,2021-01-14T19:24:47+0000,GA667,Newnan,GA,Great Pyrenees,Adult,Male,Extra Large,Long,True,True,False,True
+54957700,SWEET CHEEKS,adoptable,2022-03-12T21:57:42+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Large,,True,False,False,False
+55034606,Scooby,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Mixed Breed,Young,Male,Medium,,False,False,False,True
+55401481,Elizabeth,adoptable,2022-04-25T22:59:13+0000,GA553,Warner Robins,GA,Terrier,Baby,Female,Medium,Short,False,False,False,True
+41155616,Holly,adoptable,2018-03-11T19:19:33+0000,GA665,Peachtree City,GA,Labrador Retriever,Adult,Female,Medium,Short,True,True,False,True
+55264723,Bella (2),adoptable,2022-04-10T21:37:48+0000,GA52,Lawrenceville,GA,Bull Terrier,Adult,Female,Large,Short,True,True,False,True
+55390637,Plain Jane,adoptable,2022-04-24T21:06:18+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55348868,Trevor,adoptable,2022-04-20T10:05:50+0000,GA66,Albany,GA,Bull Terrier,Adult,Male,Medium,,False,False,False,True
+55343852,Lengua,adoptable,2022-04-19T20:06:25+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+53824234,BUDDHA,adoptable,2021-12-07T23:55:34+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+55358526,GA/Dover,adoptable,2022-04-21T01:28:55+0000,NY712,Greenville,GA,Brittany Spaniel,Adult,Male,Medium,,True,True,False,True
+54253022,DJ,adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Labrador Retriever,Adult,Male,Medium,,True,False,False,False
+54223785,Hot Chocolate,adoptable,2022-01-14T22:26:28+0000,GA914,Decatur,GA,Shepherd,Adult,Male,Large,Short,True,False,False,True
+55128799,Eugene Remy,adoptable,2022-03-27T21:06:13+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Male,Large,,True,False,False,False
+55129706,DAVE,adoptable,2022-03-27T23:40:27+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55276829,Trixie,adoptable,2022-04-12T01:54:55+0000,GA76,Winder,GA,Shepherd,Young,Female,Medium,,True,False,False,False
+55351013,Midnite 4716,adoptable,2022-04-20T15:50:20+0000,GA181,Columbus,GA,Mixed Breed,Senior,Female,Medium,,True,False,False,True
+55181723,LEGACY,adoptable,2022-04-01T19:34:39+0000,GA217,Atlanta,GA,Pointer,Baby,Female,Medium,,True,False,False,False
+55385858,Daisy 10-2637,adoptable,2022-04-23T23:25:16+0000,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,True
+55236180,Godfrey,adoptable,2022-04-07T15:06:18+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54873765,Dilly - IN FOSTER,adoptable,2022-03-05T21:06:34+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+52972172,Roo,adoptable,2021-09-14T13:57:48+0000,GA665,Peachtree City,GA,Hound,Senior,Female,Large,,True,True,False,True
+55400830,Pen 217 Derpy,adoptable,2022-04-25T22:01:27+0000,GA357,Lawrenceville,GA,Terrier,Senior,Female,Medium,,True,False,False,True
+55014321,CANE,adoptable,2022-03-17T20:51:33+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+55317890,Mendel (in foster),adoptable,2022-04-16T15:06:11+0000,GA335,Atlanta,GA,Mixed Breed,Young,Male,Large,,True,False,False,False
+55374703,Rio,adoptable,2022-04-22T18:25:10+0000,GA718,Columbus,GA,Chihuahua,Adult,Male,Small,,True,False,False,True
+55197470,BELLA LUNA,adoptable,2022-04-03T21:45:08+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+54353184,Rupert,adoptable,2022-01-23T23:22:03+0000,GA76,Winder,GA,American Bulldog,Young,Male,Medium,,False,False,False,False
+54427575,MANNY,adoptable,2022-01-28T23:42:02+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+51240232,Lucy Lu,adoptable,2021-04-16T20:44:18+0000,GA918,Marshallville,GA,Boxer,Young,Female,Medium,Short,True,True,False,True
+53009887,Odin,adoptable,2021-09-17T17:25:15+0000,GA718,Columbus,GA,American Bulldog,Adult,Male,Medium,,True,False,False,True
+52427164,Katie ,adoptable,2021-07-21T17:45:46+0000,GA929,Snellville,GA,Akita,Adult,Female,Large,,True,True,False,True
+48287696,MJ (aka Big Mama),adoptable,2020-06-22T16:13:01+0000,NY966,Atlanta,GA,Hound,Senior,Female,Large,Short,True,True,False,True
+55275465,DATE,adoptable,2022-04-11T22:54:50+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Male,Medium,,True,False,False,False
+55242382,Chip,adoptable,2022-04-07T23:01:38+0000,GA299,Douglasville,GA,Labrador Retriever,Adult,Male,Medium,,False,False,False,True
+55316425,Elsa,adoptable,2022-04-16T05:07:22+0000,GA979,Douglas,GA,American Bully,Baby,Female,Medium,,True,True,False,True
+47867631,Jed,adoptable,2020-04-24T16:31:50+0000,GA216,Eastman,GA,Labrador Retriever,Young,Male,Medium,,True,False,False,True
+54807488,Wes- ADOPTED,adoptable,2022-03-02T00:06:15+0000,GA423,Chamblee,GA,Mixed Breed,Young,Male,Large,,False,False,False,False
+55042115,Nick Flury,adoptable,2022-03-19T23:58:16+0000,GA76,Winder,GA,Cocker Spaniel,Young,Male,Medium,,False,False,False,False
+55283035,Black Jack,adoptable,2022-04-12T18:58:12+0000,GA508,Atlanta,GA,Labrador Retriever,Baby,Male,Medium,,False,False,False,True
+55375843,FELIX,adoptable,2022-04-22T19:47:25+0000,GA217,Atlanta,GA,Black and Tan Coonhound,Young,Male,Medium,,True,False,False,False
+55319567,Atlantic,adoptable,2022-04-16T18:06:25+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55217646,Dh1 Mollie Hw++,adoptable,2022-04-05T19:31:07+0000,GA357,Lawrenceville,GA,Labrador Retriever,Senior,Female,Large,,True,False,False,True
+55378050,Suerte,adoptable,2022-04-22T23:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+54255463,Spotify,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54675707,Lucinda,adoptable,2022-02-18T23:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+53698318,"King, personality plus, pint sized cutie!",adoptable,2021-11-28T04:05:28+0000,GA966,Peachtree Corners,GA,Chihuahua,Adult,Male,Small,Short,True,True,False,True
+54802778,SPUD,adoptable,2022-03-01T19:01:45+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+54549964,Mama,adoptable,2022-02-08T13:49:05+0000,GA854,Stone Mountain,GA,Pit Bull Terrier,Adult,Female,Medium,Short,False,True,False,False
+55287498,PEACHES,adoptable,2022-04-13T02:00:25+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,False
+55048680,Jasper,adoptable,2022-03-20T22:48:49+0000,GA52,Lawrenceville,GA,American Bulldog,Young,Male,Large,Short,True,True,False,True
+55401657,Cutie Pie,adoptable,2022-04-25T23:13:28+0000,GA553,Warner Robins,GA,Chihuahua,Young,Female,Small,Short,False,False,False,True
+54656732,Choco,adoptable,2022-02-17T17:25:12+0000,GA718,Columbus,GA,Mixed Breed,Adult,Male,Large,,False,False,False,True
+55207833,BEIJING,adoptable,2022-04-04T22:49:47+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+55402887,C,adoptable,2022-04-26T01:46:17+0000,GA357,Lawrenceville,GA,American Bulldog,Adult,Male,Large,,False,False,False,True
+54943514,Midnight,adoptable,2022-03-11T20:01:40+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,True
+55296557,PERRY,adoptable,2022-04-14T00:35:07+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Male,Small,,True,False,False,False
+54403598,JAVA,adoptable,2022-01-27T17:35:16+0000,GA217,Atlanta,GA,Boxer,Adult,Female,Large,,True,False,False,False
+54255651,Tess,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+54870505,Eloise,adoptable,2022-03-05T18:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+54281422,Allister,adoptable,2022-01-18T21:24:02+0000,GA914,Decatur,GA,Terrier,Adult,Male,Large,Short,True,False,False,True
+55367650,Modelo,adoptable,2022-04-21T23:06:26+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55294743,Waltz 04-1323,adoptable,2022-04-13T21:25:17+0000,GA926,Tyrone,GA,Dachshund,Young,Male,Small,,False,False,False,True
+55312284,CHINOOK,adoptable,2022-04-15T19:43:42+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,False
+55169327,William 02-1433,adoptable,2022-03-31T19:25:11+0000,GA926,Tyrone,GA,Pointer,Baby,Male,Small,,True,False,False,True
+54709786,Pen 148 Rhino,adoptable,2022-02-22T16:16:06+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+55290808,Samson,adoptable,2022-04-13T16:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Male,Small,,True,False,False,False
+55322070,GOUDA,adoptable,2022-04-16T23:49:21+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55015381,Jade,adoptable,2022-03-17T21:47:42+0000,GA553,Warner Robins,GA,Shetland Sheepdog / Sheltie,Baby,Female,Medium,Short,False,False,False,True
+54255732,Eggroll,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+55173343,OPHELIA,adoptable,2022-03-31T23:00:06+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+55192060,Krystal,adoptable,2022-04-02T23:01:28+0000,GA299,Douglasville,GA,Labrador Retriever,Adult,Female,Medium,,False,False,False,True
+55156122,Nadira,adoptable,2022-03-30T18:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55384360,Cookie,adoptable,2022-04-23T20:06:29+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+55176835,Pen 165 Midori,adoptable,2022-04-01T14:31:48+0000,GA357,Lawrenceville,GA,Australian Cattle Dog / Blue Heeler,Adult,Female,Large,,True,False,False,True
+54271003,Little senior beagle/basset,adoptable,2022-01-17T18:46:46+0000,GA986,Mauk,GA,Beagle,Senior,Male,Medium,Short,True,False,False,True
+54872521,Alessia,adoptable,2022-03-05T20:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+53276288,Zeus,adoptable,2021-10-15T17:43:28+0000,GA918,Marshallville,GA,German Shepherd Dog,Adult,Male,Large,Long,True,True,False,True
+55126994,Katie,adoptable,2022-03-27T17:36:01+0000,GA319,Peachtree City,GA,Pit Bull Terrier,Young,Female,Medium,Short,False,False,False,True
+54941807,Relicanth-IN FOSTER,adoptable,2022-03-11T18:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55069035,BOBBY,adoptable,2022-03-22T17:44:20+0000,GA219,Augusta,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,False
+54696977,Freckles,adoptable,2022-02-21T06:02:56+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55355533,Pen 144 Quibble,adoptable,2022-04-20T20:45:48+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,True
+55172165,BUDDY BOY,adoptable,2022-03-31T21:59:34+0000,GA99,Macon,GA,Labrador Retriever,Young,Male,Medium,,False,False,False,False
+54618439,Langston,adoptable,2022-02-14T18:25:36+0000,GA319,Peachtree City,GA,Hound,Young,Male,Large,Short,False,False,False,True
+55127073,Grant,adoptable,2022-03-27T17:38:24+0000,GA319,Peachtree City,GA,Labrador Retriever,Baby,Male,Medium,Medium,False,False,False,True
+55125873,OZZY,adoptable,2022-03-27T14:08:17+0000,GA217,Atlanta,GA,Bullmastiff,Young,Male,Large,,True,False,False,False
+55387895,Artemis,adoptable,2022-04-24T14:00:13+0000,GA83,Fayetteville,GA,Yellow Labrador Retriever,Young,Female,Medium,,True,False,False,True
+55402259,Murphy,adoptable,2022-04-26T00:22:33+0000,GA508,Atlanta,GA,Labrador Retriever,Adult,Male,Medium,,True,True,False,True
+50515849,Fiji,adoptable,2021-02-10T22:37:36+0000,GA918,Marshallville,GA,Boxer,Young,Female,Medium,Short,True,True,False,True
+55287457,Cookie,adoptable,2022-04-13T01:56:38+0000,GA793,Macon,GA,Labrador Retriever,Adult,Male,Large,,True,False,False,True
+55367418,LEXI,adoptable,2022-04-21T22:43:13+0000,GA217,Atlanta,GA,Boerboel,Senior,Female,Large,,False,False,False,False
+54612955,WEASEL,adoptable,2022-02-14T00:18:02+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,False
+53480505,Raquel,adoptable,2021-11-05T20:26:41+0000,GA152,Washington,GA,Pit Bull Terrier,Adult,Female,Large,Short,False,False,False,True
+55330055,Bella,adoptable,2022-04-18T15:32:49+0000,GA1020,Jackson,GA,Cane Corso,Young,Female,Large,,True,False,False,True
+55297111,EMMA,adoptable,2022-04-14T02:05:26+0000,GA217,Atlanta,GA,Labrador Retriever,Baby,Female,Small,,True,False,False,False
+55383285,Canela,adoptable,2022-04-23T18:06:21+0000,GA251,Atlanta,GA,American Bulldog,Adult,Female,Medium,,True,False,False,False
+55323554,Kyra,adoptable,2022-04-17T10:07:22+0000,GA150,Madison,GA,Miniature Pinscher,Senior,Female,Medium,,True,False,False,True
+34274781,Yazmin,adoptable,2016-01-19T15:19:26+0000,GA667,Newnan,GA,Great Pyrenees,Young,Female,Extra Large,Long,True,False,False,True
+55181420,Jupiter,adoptable,2022-04-01T19:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+54255997,Willy - IN FOSTER,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Male,Large,,True,False,False,False
+55239249,Bronco,adoptable,2022-04-07T18:56:19+0000,GA508,Atlanta,GA,Labrador Retriever,Adult,Male,Medium,,True,True,False,True
+54547536,INDY,adoptable,2022-02-08T03:50:08+0000,GA745,Alpharetta,GA,Shepherd,Adult,Male,Large,Short,True,True,False,True
+55383277,Esco,adoptable,2022-04-23T18:06:20+0000,GA251,Atlanta,GA,Doberman Pinscher,Adult,Male,Large,,True,False,False,False
+55344787,Bentley,adoptable,2022-04-19T21:29:28+0000,GA997,Augusta,GA,Mountain Cur,Young,Male,Large,Short,True,True,False,True
+54256081,Arturo,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55376866,Roscoe,adoptable,2022-04-22T21:06:15+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55255610,King,adoptable,2022-04-09T15:25:25+0000,GA718,Columbus,GA,Chocolate Labrador Retriever,Adult,Male,Large,,True,False,False,True
+54727032,GILLIAN,adoptable,2022-02-23T20:33:37+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,False
+54519926,Libra,adoptable,2022-02-05T00:02:00+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,True
+55246267,PEBBLES,adoptable,2022-04-08T14:38:12+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Male,Medium,,True,False,False,False
+54586436,Peanut,adoptable,2022-02-11T00:01:53+0000,GA299,Douglasville,GA,American Staffordshire Terrier,Adult,Female,Large,,False,False,False,True
+55195151,Beth,adoptable,2022-04-03T16:22:13+0000,GA204,Danielsville,GA,Mixed Breed,Young,Female,Medium,,False,False,False,True
+54420298,Patch,adoptable,2022-01-28T15:58:21+0000,GA793,Macon,GA,Chihuahua,Adult,Male,Small,,True,False,False,True
+54914682,Felix 5523,adoptable,2022-03-09T16:50:16+0000,GA181,Columbus,GA,Mixed Breed,Adult,Male,Large,,True,False,False,True
+54970425,Arcee Cola,adoptable,2022-03-14T17:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+51032644,Shiny,adoptable,2021-03-28T18:17:22+0000,GA902,Augusta,GA,Labrador Retriever,Young,Male,Medium,Short,True,True,False,True
+55308112,Tucker,adoptable,2022-04-15T13:35:03+0000,GA152,Washington,GA,Basset Hound,Baby,Male,Medium,Medium,True,True,False,True
+54255873,Friday,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+55034516,Naomi,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,True
+54421103,Raven,adoptable,2022-01-28T17:06:16+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55034507,Rico,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Bull Terrier,Adult,Male,Large,,False,False,False,True
+54899649,Honeybun,adoptable,2022-03-08T14:51:41+0000,GA979,Douglas,GA,Black Mouth Cur,Adult,Female,Large,,True,True,False,True
+55361777,Rowan,adoptable,2022-04-21T15:00:16+0000,GA83,Fayetteville,GA,German Shepherd Dog,Baby,Male,Small,,False,False,False,True
+55168979,Sango,adoptable,2022-03-31T19:01:30+0000,GA299,Douglasville,GA,Labrador Retriever,Young,Female,Medium,,False,False,False,True
+54985063,Rex,adoptable,2022-03-15T16:14:01+0000,GA52,Lawrenceville,GA,Shepherd,Adult,Male,Large,Long,True,True,False,True
+55195470,Kyrie-ADOPTED!,adoptable,2022-04-03T17:06:21+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,False
+53443181,Rosie,adoptable,2021-11-02T18:13:07+0000,GA918,Marshallville,GA,Pit Bull Terrier,Adult,Female,Large,Short,True,True,False,True
+54844994,Fidget,adoptable,2022-03-03T23:06:14+0000,GA335,Atlanta,GA,Mixed Breed,Senior,Male,Large,,True,False,False,False
+55346174,BUTTER,adoptable,2022-04-19T23:33:25+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,False
+55192470,TRAVIS BARKER,adoptable,2022-04-03T00:11:01+0000,GA217,Atlanta,GA,American Staffordshire Terrier,Adult,Male,Large,,False,False,False,False
+55178658,HOUSTON,adoptable,2022-04-01T16:34:01+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+55357109,Tamara,adoptable,2022-04-20T23:01:36+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,True
+55381298,Jazzy,adoptable,2022-04-23T14:31:24+0000,GA247,Covington,GA,Beagle,Adult,Female,Medium,,True,False,False,True
+55110601,Nixon,adoptable,2022-03-25T18:06:24+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,False
+54986175,FELICITY,adoptable,2022-03-15T17:40:27+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,False
+51012478,Ice Cube,adoptable,2021-03-26T18:35:31+0000,GA41,Dawson,GA,American Bulldog,Young,Male,Large,,True,True,False,True
+52392483,Bonnie,adoptable,2021-07-18T18:18:05+0000,GA979,Douglas,GA,Dachshund,Adult,Female,Small,Short,True,True,False,True
+46539413,Myles,adoptable,2019-11-12T01:23:17+0000,GA377,Colbert,GA,Shepherd,Adult,Male,Medium,Medium,True,True,False,True
+50126308,Gemma,adoptable,2020-12-24T02:43:06+0000,GA787,Peachtree City,GA,Shepherd,Adult,Female,Medium,,True,False,False,True
+55296314,Sprout (in foster),adoptable,2022-04-14T00:06:11+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+53276392,Kermit,adoptable,2021-10-15T17:55:35+0000,GA918,Marshallville,GA,American Staffordshire Terrier,Adult,Male,Large,Short,True,True,False,True
+55382328,12728,adoptable,2022-04-23T16:31:22+0000,GA247,Covington,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,True
+55034587,Marilyn,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Mixed Breed,Adult,Female,Large,,False,False,False,True
+53371340,Lucy,adoptable,2021-10-25T23:09:48+0000,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,True
+52592041,Big Red,adoptable,2021-08-06T19:30:57+0000,GA168,Perry,GA,Labrador Retriever,Adult,Male,Large,,True,False,False,True
+54519332,Boman,adoptable,2022-02-04T23:01:41+0000,GA1025,Waynesboro,GA,Pit Bull Terrier,Adult,Male,Large,,False,False,False,True
+55284140,Beluga,adoptable,2022-04-12T20:06:14+0000,GA251,Atlanta,GA,Pit Bull Terrier,Adult,Male,Small,,True,False,False,False
+54529802,Bronco,adoptable,2022-02-06T00:12:13+0000,GA809,Atlanta,GA,Boxer,Adult,Male,Medium,,True,False,False,False
+54553273,Pen 180 Oreo Hwtx,adoptable,2022-02-08T18:01:07+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,True
+54594664,Jazzy,adoptable,2022-02-11T19:19:00+0000,GA809,Atlanta,GA,Shar-Pei,Adult,Female,Large,,True,False,False,True
+55271178,TOAST,adoptable,2022-04-11T17:53:25+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Small,,True,False,False,False
+55346487,Sunshine Bear,adoptable,2022-04-20T00:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+54256148,Oogie,adoptable,2022-01-16T22:06:41+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55335142,FRUIT LOOP,adoptable,2022-04-18T21:57:38+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Female,Small,,True,False,False,False
+55105502,Monte,adoptable,2022-03-25T08:28:31+0000,GA75,Hamilton,GA,Terrier,Adult,Male,Medium,,True,False,False,False
+54871944,Sage 03-0505,adoptable,2022-03-05T19:25:12+0000,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,True
+55355750,Jeffery,adoptable,2022-04-20T21:06:21+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+54256033,Isis,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Female,Large,,True,False,False,False
+55126960,Calypso,adoptable,2022-03-27T17:26:55+0000,GA319,Peachtree City,GA,Pit Bull Terrier,Young,Female,Large,Short,False,False,False,True
+55235837,ROCKY,adoptable,2022-04-07T14:33:02+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+40713643,Valentina,adoptable,2018-01-19T15:43:35+0000,GA665,Peachtree City,GA,Retriever,Adult,Female,Medium,Short,True,False,False,True
+54364647,Tessa *FOSTER NEEDED TOO!,adoptable,2022-01-25T00:24:19+0000,GA627,Decatur,GA,American Bulldog,Young,Female,Medium,,True,True,False,True
+55398122,Pen 200,adoptable,2022-04-25T18:31:31+0000,GA357,Lawrenceville,GA,Shih Tzu,Adult,Female,Small,,True,False,False,True
+52613987,Zack,adoptable,2021-08-09T13:20:59+0000,GA216,Eastman,GA,Yellow Labrador Retriever,Young,Male,Large,,True,False,False,True
+54116026,Coal,adoptable,2022-01-05T23:21:25+0000,GA216,Eastman,GA,Hound,Young,Male,Medium,,True,True,False,True
+55353516,Camo 3414,adoptable,2022-04-20T18:50:14+0000,GA181,Columbus,GA,Mixed Breed,Young,Male,Medium,,True,False,False,True
+52710018,Palomo,adoptable,2021-08-19T00:52:31+0000,GA923,Loganville,GA,Boxer,Adult,Male,Large,,False,True,False,False
+54255469,Sunny- IN FOSTER,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+46540630,Izzy,adoptable,2019-11-11T12:59:03+0000,GA377,Colbert,GA,German Shepherd Dog,Adult,Female,Large,Short,True,True,True,True
+54255973,Falco,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55245750,JUNIPER,adoptable,2022-04-08T13:38:02+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Small,,True,False,False,False
+55402420,MUCHO,adoptable,2022-04-26T00:32:47+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,False,False,False,False
+55277337,Sebastian,adoptable,2022-04-12T04:22:02+0000,GA204,Danielsville,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,True
+43568427,SAILOR MARS,adoptable,2018-12-17T23:10:20+0000,GA914,Decatur,GA,Australian Cattle Dog / Blue Heeler,Adult,Female,Medium,Short,True,False,True,True
+54942000,Soybean 03-1118,adoptable,2022-03-11T18:25:16+0000,GA926,Tyrone,GA,Pit Bull Terrier,Baby,Male,Small,,False,False,False,True
+55179603,Pen 126 Grouper,adoptable,2022-04-01T17:15:30+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,True
+54470506,Mason (run 34) ,adoptable,2022-02-01T16:48:44+0000,GA733,Columbus,GA,Mixed Breed,Adult,Male,Medium,Short,False,False,False,True
+55192327,Monet,adoptable,2022-04-02T23:58:02+0000,GA627,Decatur,GA,Siberian Husky,Young,Female,Large,,True,True,False,True
+55402421,CHEETAH,adoptable,2022-04-26T00:32:48+0000,GA217,Atlanta,GA,German Shepherd Dog,Adult,Female,Large,,False,False,False,False
+54252761,Roofus Floofus (in foster),adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55230461,Jake,adoptable,2022-04-06T20:21:28+0000,GA204,Danielsville,GA,Boxer,Adult,Male,Medium,,True,False,False,True
+54255615,Ruby Redd,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55126796,Denver,adoptable,2022-03-27T17:02:13+0000,GA918,Marshallville,GA,Husky,Young,Male,Large,Medium,True,True,False,True
+55297140,Thandi,adoptable,2022-04-14T02:06:14+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+55010519,BAMBI,adoptable,2022-03-17T16:50:27+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+55015871,Nova,adoptable,2022-03-17T22:34:49+0000,GA553,Warner Robins,GA,Terrier,Baby,Female,Medium,Short,False,False,False,True
+55016138,Monroe,adoptable,2022-03-17T23:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55009986,Pippa,adoptable,2022-03-17T16:06:25+0000,GA70,Greensboro,GA,Terrier,Adult,Female,Medium,,True,False,False,False
+54734367,Prince,adoptable,2022-02-24T10:01:01+0000,GA174,Forsyth,GA,American Staffordshire Terrier,Young,Male,Large,,True,False,False,True
+55298187,Adele,adoptable,2022-04-14T10:01:27+0000,GA66,Albany,GA,Mixed Breed,Young,Female,Small,,False,False,False,True
+55109900,Lucille,adoptable,2022-03-25T17:06:30+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+54488215,Pen 182 Sasha,adoptable,2022-02-02T20:31:15+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,True
+55168806,Henley,adoptable,2022-03-31T18:58:09+0000,GA535,Dunwoody,GA,Labrador Retriever,Baby,Male,Large,,True,False,False,True
+54987808,KEY LIME PIE,adoptable,2022-03-15T19:41:11+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+55384037,Lucy,adoptable,2022-04-23T19:26:15+0000,GA941,Decatur,GA,Labrador Retriever,Adult,Female,Medium,,True,True,True,True
+54733385,Jackson ,adoptable,2022-02-24T04:56:37+0000,GA999,Douglas,GA,Catahoula Leopard Dog,Adult,Male,Medium,Medium,True,True,False,True
+55380260,Blue Jeans,adoptable,2022-04-23T08:29:00+0000,GA75,Hamilton,GA,Terrier,Adult,Female,Medium,,True,False,False,False
+55317547,Axel-ADOPTED,adoptable,2022-04-16T14:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Young,Male,Large,,False,False,False,False
+55030796,Cokie,adoptable,2022-03-18T23:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+53364988,Zephyr,adoptable,2021-10-25T11:48:30+0000,GA809,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+33151430,Rosie,adoptable,2015-08-30T13:15:42+0000,GA41,Dawson,GA,Pit Bull Terrier,Senior,Female,Large,Short,True,True,False,True
+54914776,Lucky,adoptable,2022-03-09T17:01:33+0000,GA1025,Waynesboro,GA,Labrador Retriever,Baby,Female,Medium,,False,False,False,True
+54959697,BAMBI,adoptable,2022-03-13T01:58:27+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55377505,Charlie,adoptable,2022-04-22T22:06:18+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54983820,TREY,adoptable,2022-03-15T15:39:37+0000,GA257,Appling,GA,Labrador Retriever,Adult,Male,Large,,False,False,False,False
+55032159,Red,adoptable,2022-03-19T00:28:03+0000,GA1020,Jackson,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+54999041,MAMMA MIA!,adoptable,2022-03-16T17:45:48+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Large,,True,False,False,False
+55278531,Leticia,adoptable,2022-04-12T14:42:32+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+54861618,Vince 8169,adoptable,2022-03-04T21:50:11+0000,GA181,Columbus,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,True
+54895439,DUKE,adoptable,2022-03-07T22:01:07+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+55399332,Kito,adoptable,2022-04-25T20:01:24+0000,GA247,Covington,GA,Dachshund,Adult,Male,Medium,,False,False,False,True
+55297110,HERSHEY,adoptable,2022-04-14T02:05:26+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55285194,Angelica,adoptable,2022-04-12T21:35:04+0000,GA862,Athens,GA,Mixed Breed,Senior,Female,Medium,,False,False,False,False
+54842579,Kodak,adoptable,2022-03-03T20:29:36+0000,GA918,Marshallville,GA,German Shepherd Dog,Adult,Male,Large,Long,True,True,False,True
+55131653,Rocket,adoptable,2022-03-28T12:20:35+0000,GA680,Atlanta,GA,Beagle,Adult,Male,Medium,,True,True,False,True
+55102308,Zaxby 03-2478,adoptable,2022-03-24T21:25:09+0000,GA926,Tyrone,GA,German Shepherd Dog,Adult,Male,Medium,,True,False,False,True
+54281826,Grandpa Holmes ,adoptable,2022-01-18T22:03:24+0000,GA914,Decatur,GA,Labrador Retriever,Senior,Male,Large,Short,True,False,False,True
+54946501,Miami Vice,adoptable,2022-03-11T23:06:16+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55134362,ISABELLA,adoptable,2022-03-28T17:43:07+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,False,False,False,False
+54252679,Diamond 2,adoptable,2022-01-16T22:06:14+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+55129144,Sasha,adoptable,2022-03-27T22:00:53+0000,GA52,Lawrenceville,GA,Beagle,Adult,Female,Medium,Medium,True,True,False,True
+54255971,Smoke,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Young,Male,Large,,True,False,False,False
+54871753,Billie,adoptable,2022-03-05T19:05:48+0000,GA168,Perry,GA,American Bulldog,Adult,Female,Large,,True,True,False,True
+54757294,Pen 150 Bosco Hw Tx,adoptable,2022-02-25T20:46:20+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,True
+55282289,PORTUGAL,adoptable,2022-04-12T17:58:11+0000,GA217,Atlanta,GA,German Shepherd Dog,Young,Female,Large,,True,False,False,False
+54453504,Sidney,adoptable,2022-01-31T02:06:15+0000,GA553,Warner Robins,GA,Hound,Adult,Female,Large,Short,False,True,True,True
+55325641,Aspen,adoptable,2022-04-17T20:00:36+0000,GA116,Athens,GA,Husky,Baby,Female,Large,Short,False,False,False,True
+55353765,JAMES,adoptable,2022-04-20T19:06:18+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+54464489,Sniper,adoptable,2022-01-31T22:43:26+0000,GA862,Athens,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+48271337,Cash Money,adoptable,2020-06-20T00:01:45+0000,GA914,Decatur,GA,Jack Russell Terrier,Adult,Male,Medium,Short,True,False,True,True
+53882343,MARS,adoptable,2021-12-13T01:50:45+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+54590639,June,adoptable,2022-02-11T13:21:45+0000,GA204,Danielsville,GA,Hound,Adult,Female,Medium,,True,False,False,True
+55255602,Hope,adoptable,2022-04-09T15:24:06+0000,GA152,Washington,GA,Labrador Retriever,Adult,Female,Medium,Short,True,False,True,True
+55260340,SUSIE,adoptable,2022-04-10T01:16:09+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+48556693,Bentley,adoptable,2020-07-21T22:56:36+0000,GA194,Atlanta,GA,Chihuahua,Adult,Male,Small,Wire,True,True,True,True
+55401635,Monk Monk,adoptable,2022-04-25T23:09:40+0000,GA553,Warner Robins,GA,Chihuahua,Young,Female,Small,Short,False,False,False,True
+55285187,Bella,adoptable,2022-04-12T21:33:15+0000,GA862,Athens,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+55163114,Willy,adoptable,2022-03-31T12:49:27+0000,GA680,Atlanta,GA,Labrador Retriever,Young,Male,Large,,True,False,False,True
+55189062,Mirthia-ADOPTED!,adoptable,2022-04-02T17:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Baby,Female,Small,,False,False,False,False
+54713285,Cobalt,adoptable,2022-02-22T19:51:46+0000,GA508,Atlanta,GA,Australian Shepherd,Young,Male,Medium,,True,True,False,True
+54255477,Solana,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55389608,Monkey,adoptable,2022-04-24T18:36:06+0000,GA477,Greensboro,GA,Great Pyrenees,Baby,Male,Large,Medium,True,False,False,True
+55005972,Tammy,adoptable,2022-03-17T02:27:05+0000,GA914,Decatur,GA,Mixed Breed,Young,Female,Medium,Short,True,False,False,True
+54472116,Cook,adoptable,2022-02-01T18:36:32+0000,GA862,Athens,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55397595,Max #8611,adoptable,2022-04-25T17:50:20+0000,GA232,Monroe,GA,Labrador Retriever,Baby,Male,Medium,,False,False,False,False
+54739846,Thor,adoptable,2022-02-24T18:25:10+0000,GA718,Columbus,GA,Staffordshire Bull Terrier,Senior,Male,Large,,True,False,False,True
+55315405,Bailey,adoptable,2022-04-16T00:25:44+0000,GA537,Dacula,GA,German Shepherd Dog,Adult,Female,Large,,True,True,False,True
+54910016,ASPEN,adoptable,2022-03-09T02:37:17+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,False
+55311489,BUCKEYE,adoptable,2022-04-15T18:43:36+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,False
+55273620,MARLEY,adoptable,2022-04-11T20:24:25+0000,GA99,Macon,GA,Dachshund,Senior,Female,Small,,True,False,False,False
+54606973,LOADED POTATO,adoptable,2022-02-13T01:44:30+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55121206,Gert,adoptable,2022-03-26T18:59:14+0000,GA535,Dunwoody,GA,Shar-Pei,Adult,Female,Small,,True,False,False,True
+54100724,In Foster Sophie,adoptable,2022-01-04T18:46:30+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,True
+55060781,CLAUDE,adoptable,2022-03-21T22:41:04+0000,GA217,Atlanta,GA,Chow Chow,Young,Male,Large,,True,False,False,False
+55216448,Sara,adoptable,2022-04-05T18:06:27+0000,GA251,Atlanta,GA,Shepherd,Adult,Female,Large,,True,False,False,False
+50238737,Shirley,adoptable,2021-01-09T17:11:06+0000,GA830,Locust Grove,GA,German Shepherd Dog,Young,Female,Medium,,True,True,True,True
+53327204,Dirk,adoptable,2021-10-21T04:30:48+0000,GA537,Dacula,GA,German Shepherd Dog,Adult,Male,Large,,True,True,False,True
+53351086,Willie ,adoptable,2021-11-24T02:56:37+0000,AL48,Atlanta,GA,Weimaraner,Adult,Male,Large,Short,True,True,True,True
+51517788,Mason,adoptable,2021-05-13T00:22:56+0000,GA553,Warner Robins,GA,Retriever,Young,Male,Medium,Short,True,True,False,True
+54624278,REUBEN,adoptable,2022-02-15T02:52:20+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55274909,Scizor - ADOPTED,adoptable,2022-04-11T22:06:25+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+52223186,Brisket,adoptable,2021-07-03T19:35:05+0000,GA914,Decatur,GA,Mixed Breed,Adult,Male,Medium,Short,True,True,False,True
+55326832,ICELAND,adoptable,2022-04-18T00:53:30+0000,GA217,Atlanta,GA,Labrador Retriever,Baby,Female,Small,,True,False,False,False
+55199969,Amy,adoptable,2022-04-04T07:22:50+0000,GA535,Dunwoody,GA,Beagle,Adult,Female,Small,,True,True,False,True
+54011528,Journey,adoptable,2021-12-26T10:07:20+0000,GA174,Forsyth,GA,Terrier,Adult,Female,Medium,,True,True,False,False
+53546208,Cleo,adoptable,2021-11-12T01:20:48+0000,GA535,Dunwoody,GA,Ibizan Hound,Adult,Female,Medium,,True,True,False,True
+54697739,Bentley,adoptable,2022-02-21T06:08:26+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Male,Large,,False,False,False,True
+54497097,BIG BOY,adoptable,2022-02-03T18:03:32+0000,GA217,Atlanta,GA,Labrador Retriever,Adult,Male,Large,,True,False,False,False
+55349043,Baron,adoptable,2022-04-20T12:14:48+0000,GA467,Cochran,GA,Siberian Husky,Young,Male,Medium,Medium,True,True,False,True
+54707785,Arthur,adoptable,2022-02-22T10:13:32+0000,GA535,Dunwoody,GA,Terrier,Adult,Male,Large,,True,False,False,True
+55034539,Rusty,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Mixed Breed,Adult,Male,Large,,False,False,False,True
+51241333,Meeko,adoptable,2021-04-16T21:42:15+0000,GA918,Marshallville,GA,Boxer,Adult,Female,Medium,Medium,True,True,False,True
+55232836,Cherry,adoptable,2022-04-07T00:06:17+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+54425574,Britannia - IN FOSTER,adoptable,2022-01-28T21:06:31+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55361996,12703,adoptable,2022-04-21T15:16:13+0000,GA247,Covington,GA,German Shepherd Dog,Adult,Female,Medium,,False,False,False,True
+54987188,Hollis,adoptable,2022-03-15T18:54:51+0000,GA508,Atlanta,GA,Labrador Retriever,Young,Male,Large,,True,True,False,True
+54806650,PILLOW,adoptable,2022-03-01T22:32:40+0000,GA217,Atlanta,GA,German Shepherd Dog,Adult,Female,Medium,,False,False,False,False
+55293045,Albina (foster),adoptable,2022-04-13T19:06:17+0000,GA335,Atlanta,GA,Mixed Breed,Young,Female,Large,,False,False,False,False
+54949633,Hera,adoptable,2022-03-12T02:35:19+0000,GA787,Peachtree City,GA,Great Pyrenees,Adult,Female,Large,,True,False,False,True
+55379691,Pen 195 Ghost,adoptable,2022-04-23T02:46:30+0000,GA357,Lawrenceville,GA,American Bulldog,Young,Male,Medium,,True,False,False,True
+52223144,Cora,adoptable,2021-07-03T19:31:24+0000,GA914,Decatur,GA,Mixed Breed,Adult,Female,Large,Short,True,False,False,True
+54087536,Sophie ,adoptable,2022-01-03T14:59:55+0000,GA827,Stockbridge,GA,Bull Terrier,Adult,Female,Medium,Short,True,True,False,True
+53862327,Bruno,adoptable,2021-12-10T22:08:54+0000,GA862,Athens,GA,Mixed Breed,Young,Male,Large,,True,False,False,False
+55263860,Bubbles,adoptable,2022-04-10T19:10:26+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,True
+54990952,KIWI,adoptable,2022-03-15T22:41:41+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,False
+55313734,Patsy,adoptable,2022-04-15T22:07:33+0000,GA627,Decatur,GA,Jack Russell Terrier,Young,Female,Small,,True,True,False,True
+55336595,SOOKIE,adoptable,2022-04-19T00:58:08+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,False,False,False,False
+55347104,Torrance,adoptable,2022-04-20T01:25:13+0000,GA59,Milledgeville,GA,Border Collie,Adult,Male,Large,Medium,True,False,False,True
+54989624,Boscoe 03-1548,adoptable,2022-03-15T21:25:25+0000,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,True
+55358444,Asher,adoptable,2022-04-21T01:09:29+0000,GA680,Atlanta,GA,Schnauzer,Young,Male,Medium,,True,False,False,True
+55034610,Kaylee,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Mixed Breed,Young,Female,Large,,False,False,False,True
+54275821,Shorty,adoptable,2022-01-18T10:21:48+0000,GA1020,Jackson,GA,Staffordshire Bull Terrier,Adult,Male,Small,,True,False,False,True
+54927984,Lucky,adoptable,2022-03-10T18:06:21+0000,GA70,Greensboro,GA,Border Collie,Adult,Female,Medium,,True,False,False,False
+31122853,ATA,adoptable,2014-12-27T23:59:40+0000,GA323,Lawrenceville,GA,Staffordshire Bull Terrier,Adult,Female,Medium,Short,True,True,False,True
+55334131,Emma Grace 04-1635,adoptable,2022-04-18T20:25:13+0000,GA926,Tyrone,GA,Great Dane,Adult,Female,Extra Large,,True,False,False,True
+55181665,BUDDY,adoptable,2022-04-01T19:34:27+0000,GA99,Macon,GA,Mixed Breed,Young,Male,Large,,False,False,False,False
+55034538,Artie,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Pit Bull Terrier,Adult,Male,Large,,False,False,False,True
+55241511,CHOPPER,adoptable,2022-04-07T21:35:02+0000,GA217,Atlanta,GA,Labrador Retriever,Adult,Male,Large,,True,False,False,False
+54281604,Ma'am,adoptable,2022-01-18T21:47:24+0000,GA914,Decatur,GA,Mixed Breed,Adult,Female,Large,Short,True,False,False,True
+53070231,Cliatt,adoptable,2021-09-23T20:32:18+0000,GA152,Washington,GA,Labrador Retriever,Adult,Male,Large,Short,True,False,False,True
+55005397,Keeper,adoptable,2022-03-17T00:35:41+0000,GA627,Decatur,GA,Retriever,Young,Male,Medium,,True,True,False,True
+54779067,Friday,adoptable,2022-02-27T21:26:50+0000,GA827,Stockbridge,GA,Whippet,Young,Female,Medium,Short,True,True,False,True
+55034537,Sissy,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+55366444,Giovanna,adoptable,2022-04-21T21:06:32+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+52109144,Gypsy,adoptable,2021-06-25T14:14:54+0000,GA945,Chamblee,GA,Shepherd,Adult,Female,Large,Medium,True,True,False,True
+54255421,Spirit- IN FOSTER,adoptable,2022-01-16T22:06:36+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55257298,Pen 163 Fez,adoptable,2022-04-09T18:30:56+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,True
+54610665,Fog,adoptable,2022-02-13T19:07:07+0000,GA914,Decatur,GA,Labrador Retriever,Adult,Male,Large,Short,True,False,False,True
+55258640,Avoni,adoptable,2022-04-09T20:57:20+0000,GA620,Barnesville,GA,Mixed Breed,Baby,Female,Medium,,True,False,False,True
+49996297,Gunner,adoptable,2020-12-09T01:14:10+0000,CA2261,Auburn,GA,Australian Shepherd,Adult,Male,Large,Medium,True,True,False,True
+55398518,Duke,adoptable,2022-04-25T18:56:49+0000,GA508,Atlanta,GA,Labrador Retriever,Young,Male,Large,,True,True,False,True
+55195153,John,adoptable,2022-04-03T16:22:13+0000,GA204,Danielsville,GA,Labrador Retriever,Young,Male,Medium,,False,False,False,True
+54255496,Hagen - IN FOSTER,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55077480,VALENTINO,adoptable,2022-03-23T01:46:39+0000,GA217,Atlanta,GA,Yorkshire Terrier,Adult,Male,Small,,False,False,False,False
+55204809,Arcee,adoptable,2022-04-04T18:06:14+0000,GA335,Atlanta,GA,Mixed Breed,Young,Male,Medium,,True,False,False,False
+55324962,Blush,adoptable,2022-04-17T18:06:14+0000,GA423,Chamblee,GA,Mixed Breed,Young,Female,Medium,,False,False,False,False
+50588984,Coco,adoptable,2021-02-18T16:53:41+0000,GA244,Monticello,GA,Chihuahua,Adult,Female,Small,Short,True,True,False,True
+54881840,Dh7 Malibu Hw++,adoptable,2022-03-06T18:46:31+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,True
+54585277,Miami,adoptable,2022-02-10T22:21:56+0000,GA862,Athens,GA,Mixed Breed,Adult,Female,Medium,,True,False,True,False
+54017240,Liam,adoptable,2021-12-27T01:24:15+0000,GA665,Peachtree City,GA,Labrador Retriever,Young,Male,Large,,False,False,False,True
+55402789,87326,adoptable,2022-04-26T01:31:53+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Large,,False,False,False,True
+55034557,Paxton,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,True
+55312282,CAMI,adoptable,2022-04-15T19:43:42+0000,GA99,Macon,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+54699357,Noah,adoptable,2022-02-21T15:57:34+0000,GA830,Locust Grove,GA,Great Pyrenees,Young,Male,Large,,True,True,False,False
+55368986,HONEY,adoptable,2022-04-22T01:43:47+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Female,Large,,True,False,False,False
+55307436,Nash,adoptable,2022-04-15T09:21:10+0000,GA665,Peachtree City,GA,American Staffordshire Terrier,Baby,Male,Small,,False,False,False,True
+54974249,Kross,adoptable,2022-03-14T21:06:18+0000,GA423,Chamblee,GA,Mixed Breed,Young,Male,Large,,False,False,False,False
+54255583,Levon,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55244414,Missy,adoptable,2022-04-08T07:01:34+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,True
+55250965,OPALITE,adoptable,2022-04-08T22:26:52+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,False
+48290578,Casey Mae,adoptable,2020-06-25T15:17:51+0000,NY966,Atlanta,GA,Chiweenie,Adult,Female,Small,Short,True,True,False,True
+54256088,Robin,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+55243401,Emmy,adoptable,2022-04-08T00:47:15+0000,GA875,Atlanta,GA,Mixed Breed,Young,Female,Medium,,True,False,False,True
+54599475,ROME,adoptable,2022-02-12T02:40:00+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+53123971,Opie ,adoptable,2021-09-29T16:51:04+0000,GA508,Atlanta,GA,Labradoodle,Young,Male,Medium,Short,True,True,False,True
+55273412,Pen 159 Boy,adoptable,2022-04-11T20:15:45+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,True
+55136965,VALENTINE,adoptable,2022-03-28T21:44:17+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Female,Medium,,True,False,False,False
+36429068,Walker,adoptable,2016-10-08T16:30:44+0000,GA698,Snellville,GA,Rat Terrier,Adult,Male,Small,Short,True,True,False,True
+53862376,Darla,adoptable,2021-12-10T22:19:46+0000,GA972,Milledgeville,GA,Pit Bull Terrier,Adult,Female,Large,,True,True,False,True
+55005919,Snoopy,adoptable,2022-03-17T02:08:37+0000,GA914,Decatur,GA,American Bulldog,Senior,Male,Extra Large,Short,True,True,False,True
+54469673,Loventia,adoptable,2022-02-01T15:06:15+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+41597136,Cedric,adoptable,2018-05-10T01:59:55+0000,GA665,Peachtree City,GA,Pointer,Adult,Male,Large,Short,True,False,False,True
+55034589,Sid,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Mixed Breed,Young,Male,Small,,False,False,False,True
+55366887,BELLADONNA,adoptable,2022-04-21T21:43:09+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,False
+55396859,Hesiod,adoptable,2022-04-25T17:06:12+0000,GA251,Atlanta,GA,Labrador Retriever,Young,Male,Small,,True,False,False,False
+55091629,Chica,adoptable,2022-03-24T01:20:58+0000,GA627,Decatur,GA,Manchester Terrier,Young,Female,Small,,True,True,False,True
+55191684,John Cena,adoptable,2022-04-02T22:06:15+0000,GA335,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+55280850,LADY BUG,adoptable,2022-04-12T15:57:55+0000,GA217,Atlanta,GA,Dutch Shepherd,Young,Female,Medium,,False,False,False,False
+55304051,Nala,adoptable,2022-04-14T20:47:55+0000,GA862,Athens,GA,Mixed Breed,Young,Female,Medium,,False,False,False,False
+54495742,Mamacita,adoptable,2022-02-03T17:06:13+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+55104330,Pen 112 Patrick,adoptable,2022-03-25T00:31:35+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+48913152,Ozark,adoptable,2020-08-29T10:06:52+0000,GA174,Forsyth,GA,Labrador Retriever,Adult,Male,Large,,True,False,False,True
+55392022,MAZERATI,adoptable,2022-04-25T00:57:57+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Small,,False,False,False,False
+55221385,OLIVE,adoptable,2022-04-05T23:55:11+0000,GA217,Atlanta,GA,Chihuahua,Young,Female,Small,,True,False,False,False
+54319971,Princess Zelda,adoptable,2022-01-21T14:06:16+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55304392,Penelope (HW +) 04-0304,adoptable,2022-04-14T21:25:13+0000,GA926,Tyrone,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,True
+54252883,Tawny,adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55027343,Munchies,adoptable,2022-03-18T20:06:23+0000,GA335,Atlanta,GA,Mixed Breed,Young,Male,Medium,,True,False,False,False
+55002774,Jughead - IN FOSTER,adoptable,2022-03-16T22:06:30+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+37184690,Zelma,adoptable,2017-01-13T20:21:12+0000,GA244,Monticello,GA,Chihuahua,Senior,Female,Small,Short,True,True,False,True
+39387199,Beckett,adoptable,2017-09-15T18:04:34+0000,GA822,East Point,GA,American Staffordshire Terrier,Adult,Male,Medium,Short,True,True,False,True
+54110846,Emma,adoptable,2022-01-05T16:26:26+0000,GA836,Milledgeville,GA,American Staffordshire Terrier,Adult,Female,Large,Medium,False,False,False,False
+53469483,Hank,adoptable,2021-11-04T22:42:24+0000,GA152,Washington,GA,Pit Bull Terrier,Adult,Male,Large,Short,False,False,False,True
+54800141,Pen 154c Kilo,adoptable,2022-03-01T16:46:04+0000,GA357,Lawrenceville,GA,Mastiff,Adult,Male,Large,,True,False,False,True
+55167924,Johnny boy,adoptable,2022-03-31T18:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55333614,Austin 04-1634,adoptable,2022-04-18T19:25:22+0000,GA926,Tyrone,GA,Labrador Retriever,Baby,Male,Medium,,False,False,False,True
+54407022,Sport,adoptable,2022-01-27T20:24:12+0000,GA508,Atlanta,GA,Labrador Retriever,Young,Male,Medium,,True,True,False,True
+55294740,Mamba 04-1322,adoptable,2022-04-13T21:25:16+0000,GA926,Tyrone,GA,Dachshund,Young,Female,Small,,False,False,False,True
+54255715,Bobby Darling- IN FOSTER,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+53862085,Diesel,adoptable,2021-12-10T21:53:37+0000,GA862,Athens,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+52834959,Spike,adoptable,2021-08-31T22:04:47+0000,GA1020,Jackson,GA,American Bulldog,Adult,Male,Large,,True,False,False,True
+55385620,FRIED CHICKEN,adoptable,2022-04-23T22:53:04+0000,GA217,Atlanta,GA,German Shepherd Dog,Adult,Male,Medium,,False,False,False,False
+55394092,Ginger,adoptable,2022-04-25T13:25:12+0000,GA979,Douglas,GA,Chihuahua,Adult,Female,Small,,True,True,False,True
+54828470,Finn,adoptable,2022-03-03T01:41:21+0000,GA627,Decatur,GA,Pug,Young,Male,Medium,,True,False,False,True
+55338893,LAYLA,adoptable,2022-04-19T14:00:08+0000,GA219,Augusta,GA,German Shepherd Dog,Adult,Female,Large,,True,False,False,False
+55033677,Scout,adoptable,2022-03-19T07:54:27+0000,GA75,Hamilton,GA,Beagle,Senior,Male,Large,,True,True,False,False
+55384471,Betty,adoptable,2022-04-23T20:21:37+0000,GA204,Danielsville,GA,Mixed Breed,Young,Female,Medium,,False,False,False,False
+54326272,Romeo - IN FOSTER,adoptable,2022-01-21T23:06:29+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+52289737,Jersey,adoptable,2021-07-09T04:49:43+0000,GA553,Warner Robins,GA,Black Labrador Retriever,Baby,Female,Medium,Short,False,True,True,True
+54987584,Iceman 03-1547,adoptable,2022-03-15T19:25:16+0000,GA926,Tyrone,GA,Pit Bull Terrier,Baby,Male,Small,,True,False,False,True
+55012066,China,adoptable,2022-03-17T19:01:34+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,True
+53846728,Lucy,adoptable,2021-12-09T20:01:26+0000,GA1020,Jackson,GA,American Staffordshire Terrier,Adult,Female,Medium,,True,False,False,True
+55199579,Tommy,adoptable,2022-04-04T06:56:36+0000,GA665,Peachtree City,GA,Labrador Retriever,Baby,Male,Medium,,False,False,False,False
+54965124,CUBA,adoptable,2022-03-13T22:32:37+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,False
+54255895,Reece,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55123133,Raj,adoptable,2022-03-26T23:06:36+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54255768,Junebug - IN FOSTER,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+55032064,Taki,adoptable,2022-03-19T00:22:12+0000,GA535,Dunwoody,GA,Chihuahua,Adult,Male,Small,,True,False,False,True
+55205400,Tillie,adoptable,2022-04-04T18:51:07+0000,GA216,Eastman,GA,Pointer,Young,Female,Medium,,True,False,False,True
+55386252,Veronica,adoptable,2022-04-24T00:30:53+0000,GA1028,Warner Robins,GA,Border Collie,Baby,Female,Medium,,False,False,False,False
+54557887,Scion,adoptable,2022-02-08T23:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54255788,Big Boy,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55352726,Penny,adoptable,2022-04-20T18:06:22+0000,GA70,Greensboro,GA,Terrier,Baby,Female,Medium,,True,False,False,False
+55358609,ZETA,adoptable,2022-04-21T01:38:50+0000,GA217,Atlanta,GA,Australian Kelpie,Adult,Female,Medium,,True,False,False,False
+55311492,VIDA,adoptable,2022-04-15T18:43:37+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,False
+55207962,John Deer,adoptable,2022-04-04T23:01:32+0000,GA299,Douglasville,GA,Boxer,Adult,Female,Large,,False,False,False,True
+53653135,Finn,adoptable,2021-11-23T18:20:44+0000,GA793,Macon,GA,Shepherd,Young,Male,Medium,,True,True,False,True
+50787795,Abe,adoptable,2021-03-08T16:08:10+0000,GA902,Augusta,GA,Black Mouth Cur,Young,Male,Medium,Short,True,True,False,True
+54907615,Fausto,adoptable,2022-03-08T23:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,False
+55398902,Ace,adoptable,2022-04-25T19:20:54+0000,GA857,Norwood,GA,Mastiff,Adult,Male,Extra Large,,True,True,True,True
+55096975,A101185,adoptable,2022-03-24T16:54:25+0000,GA257,Appling,GA,Carolina Dog,Adult,Female,Medium,,False,False,False,False
+55310593,Harley,adoptable,2022-04-15T17:25:12+0000,GA718,Columbus,GA,American Bulldog,Young,Male,Medium,,True,False,False,True
+48694909,Star,adoptable,2020-08-05T18:44:57+0000,GA508,Atlanta,GA,Labrador Retriever,Young,Female,Medium,,True,True,True,True
+55304760,Bonzi,adoptable,2022-04-14T22:01:53+0000,GA1025,Waynesboro,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+54713968,In Foster Little Boy,adoptable,2022-02-22T20:46:08+0000,GA357,Lawrenceville,GA,Labrador Retriever,Senior,Male,Medium,,True,False,False,True
+55184921,Foongus - ADOPTED,adoptable,2022-04-01T23:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54256011,Onyx Rivers,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54255376,Candy Cane- IN FOSTER,adoptable,2022-01-16T22:06:36+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+54940495,Tom,adoptable,2022-03-11T17:01:39+0000,GA1025,Waynesboro,GA,Shepherd,Adult,Male,Large,,False,False,False,True
+55367649,Case,adoptable,2022-04-21T23:06:26+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,False
+50893138,Deuce,adoptable,2021-03-16T19:49:06+0000,GA857,Norwood,GA,Cane Corso,Adult,Male,Extra Large,,True,True,False,True
+55034602,Amigo,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Pit Bull Terrier,Adult,Male,Medium,,False,False,False,True
+55321717,ANGEL,adoptable,2022-04-16T22:49:00+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55122524,SHELBY,adoptable,2022-03-26T21:35:37+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+54770131,Brewer,adoptable,2022-02-26T20:24:42+0000,GA152,Washington,GA,Labrador Retriever,Adult,Male,Large,Short,False,False,False,True
+55354093,BETSY,adoptable,2022-04-20T19:37:12+0000,GA219,Augusta,GA,Mixed Breed,Baby,Female,Small,,True,False,False,False
+55072460,Winter,adoptable,2022-03-22T19:51:05+0000,GA827,Stockbridge,GA,Great Pyrenees,Adult,Male,Extra Large,,True,True,False,True
+48271457,Jacey,adoptable,2020-06-20T00:07:09+0000,GA914,Decatur,GA,Shepherd,Adult,Female,Medium,Short,False,False,False,False
+55286426,FATIMA,adoptable,2022-04-12T23:59:46+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+55372446,Florida,adoptable,2022-04-22T15:25:12+0000,GA718,Columbus,GA,American Bulldog,Baby,Female,Medium,,False,False,False,True
+55373136,Boots,adoptable,2022-04-22T16:25:14+0000,GA926,Tyrone,GA,Beagle,Adult,Female,Small,,False,False,False,True
+54969874,Pepsi Pop,adoptable,2022-03-14T16:06:17+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+54622825,Dora,adoptable,2022-02-15T01:35:23+0000,GA787,Peachtree City,GA,English Bulldog,Adult,Female,Medium,,True,False,False,True
+55364230,Cindy Pawper,adoptable,2022-04-21T18:06:14+0000,GA335,Atlanta,GA,Mixed Breed,Young,Female,Medium,,True,False,False,False
+53403924,Jasmine,adoptable,2021-10-29T04:02:02+0000,GA836,Milledgeville,GA,Black Labrador Retriever,Adult,Female,Large,Short,False,False,False,True
+55301710,LEROY,adoptable,2022-04-14T18:08:20+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+54535553,Snicker,adoptable,2022-02-06T21:52:17+0000,GA163,Social Circle,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,True
+55034525,Scarlett,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Pit Bull Terrier,Young,Female,Medium,,False,False,False,True
+54255522,Zola,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+54522600,Buttercup(Nyla),adoptable,2022-02-05T10:08:36+0000,GA66,Albany,GA,Black Mouth Cur,Adult,Female,Medium,,False,False,False,True
+55351860,12684,adoptable,2022-04-20T17:00:48+0000,GA247,Covington,GA,Boxer,Baby,Female,Medium,,False,False,False,True
+22511825,Cyndi,adoptable,2012-03-19T00:34:56+0000,GA665,Peachtree City,GA,American Staffordshire Terrier,Adult,Female,Large,Short,True,True,False,True
+55296435,Bailey,adoptable,2022-04-14T00:22:42+0000,GA508,Atlanta,GA,Labrador Retriever,Adult,Male,Large,,True,True,False,True
+47880702,Gracie,adoptable,2020-04-26T21:52:35+0000,GA667,Newnan,GA,Great Pyrenees,Adult,Female,Large,Long,True,False,False,True
+55342776,SIR WHINEY PANTS,adoptable,2022-04-19T19:01:23+0000,GA99,Macon,GA,American Bulldog,Young,Male,Large,,False,False,False,False
+50413751,Bully,adoptable,2021-01-31T20:40:09+0000,GA914,Decatur,GA,Black Labrador Retriever,Adult,Male,Large,,True,True,False,True
+48271526,Babe,adoptable,2020-06-20T00:10:27+0000,GA914,Decatur,GA,Chihuahua,Young,Male,Small,Short,True,False,False,True
+54860840,SAWYER,adoptable,2022-03-04T20:47:26+0000,GA257,Appling,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,False
+55034596,Kermit,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Labrador Retriever,Adult,Male,Medium,,False,False,False,True
+54255753,Chase,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+54708752,Pen 147 Tatum,adoptable,2022-02-22T15:45:58+0000,GA357,Lawrenceville,GA,Labrador Retriever,Adult,Male,Large,,True,False,False,True
+55321807,Roco,adoptable,2022-04-16T23:01:50+0000,GA299,Douglasville,GA,Pit Bull Terrier,Adult,Male,Large,,False,False,False,True
+52775658,Cocoa (aka Brook),adoptable,2021-08-25T19:31:47+0000,GA508,Atlanta,GA,Boxer,Adult,Female,Medium,,True,True,False,True
+55017494,Klara,adoptable,2022-03-18T02:06:16+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+54149270,Jake!,adoptable,2022-01-08T21:48:57+0000,GA336,Lawrenceville,GA,Husky,Adult,Male,Large,Medium,True,True,False,True
+55122322,Tiger Forests,adoptable,2022-03-26T21:06:30+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54201341,Elanor,adoptable,2022-01-13T15:54:20+0000,GA152,Washington,GA,Pit Bull Terrier,Adult,Female,Large,Short,False,False,False,True
+55107385,Nugget,adoptable,2022-03-25T14:17:17+0000,GA854,Stone Mountain,GA,Greyhound,Adult,Female,Large,Short,True,True,False,True
+55131496,RoseMary,adoptable,2022-03-28T10:03:23+0000,GA150,Madison,GA,Australian Cattle Dog / Blue Heeler,Young,Female,Medium,,True,False,False,True
+55293500,SHADOW,adoptable,2022-04-13T19:33:34+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+54730335,Bertha,adoptable,2022-02-24T00:01:49+0000,GA299,Douglasville,GA,Pointer,Adult,Female,Medium,,False,False,False,True
+55112123,Sasquatch,adoptable,2022-03-25T19:26:25+0000,GA152,Washington,GA,Labrador Retriever,Young,Male,Large,,True,False,False,True
+53541118,DORIS,adoptable,2021-11-11T17:52:44+0000,GA217,Atlanta,GA,Boxer,Senior,Female,Large,,False,False,False,False
+55369391,Jersey,adoptable,2022-04-22T03:21:08+0000,GA1026,Buford,GA,Black Labrador Retriever,Baby,Female,Small,,False,False,False,False
+54070564,Honey,adoptable,2022-01-01T00:23:42+0000,GA163,Social Circle,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,True
+51032678,Stevie,adoptable,2021-03-28T18:22:58+0000,GA902,Augusta,GA,Pit Bull Terrier,Adult,Male,Large,Short,True,True,True,True
+54946381,PIXIE,adoptable,2022-03-11T22:51:52+0000,GA257,Appling,GA,Pit Bull Terrier,Young,Female,Large,,True,False,False,False
+54255654,Lil Buddy,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55311731,Tonka,adoptable,2022-04-15T19:01:35+0000,GA299,Douglasville,GA,Boxer,Adult,Male,Medium,,False,False,False,True
+54690454,King,adoptable,2022-02-20T04:54:28+0000,CA2261,Auburn,GA,Australian Shepherd,Adult,Male,Large,Medium,True,True,False,True
+54035649,Max 12-2857,adoptable,2021-12-28T21:25:15+0000,GA926,Tyrone,GA,Labrador Retriever,Adult,Male,Medium,,True,False,False,True
+55238640,Luxray,adoptable,2022-04-07T18:06:21+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55311791,Montana,adoptable,2022-04-15T19:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+54280741,Habiba,adoptable,2022-01-18T20:32:03+0000,GA914,Decatur,GA,Shepherd,Adult,Female,Large,Short,True,False,False,True
+55034592,Foxy,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Mixed Breed,Young,Female,Medium,,False,False,False,True
+53556187,Khan,adoptable,2021-11-13T00:30:49+0000,GA857,Norwood,GA,Presa Canario,Senior,Male,Large,Short,True,True,False,True
+55319726,Pen 113 Ginnley,adoptable,2022-04-16T18:31:18+0000,GA357,Lawrenceville,GA,Shepherd,Young,Male,Large,,True,False,False,True
+55354092,WILLOW,adoptable,2022-04-20T19:37:12+0000,GA219,Augusta,GA,Pit Bull Terrier,Young,Female,Small,,True,False,False,False
+36904819,Lizzie,adoptable,2016-12-06T03:40:44+0000,GA764,Atlanta,GA,Boxer,Adult,Female,Medium,Short,False,False,False,True
+55397886,Togekiss - ADOPTED,adoptable,2022-04-25T18:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Baby,Female,Small,,False,False,False,False
+55071020,Lucy *FOSTER NEEDED TOO!,adoptable,2022-03-22T19:00:30+0000,GA627,Decatur,GA,Pointer,Young,Female,Medium,,True,False,False,True
+55284156,Craig Sliz,adoptable,2022-04-12T20:06:21+0000,GA423,Chamblee,GA,Mixed Breed,Young,Male,Medium,,False,False,False,False
+54269306,Bo (LOOKING FOR HOSPICE CARE),adoptable,2022-01-17T15:56:59+0000,GA697,Atlanta,GA,Whippet,Senior,Male,Medium,,True,True,False,True
+55377807,MARTIN,adoptable,2022-04-22T22:48:16+0000,GA217,Atlanta,GA,Chihuahua,Young,Male,Small,,False,False,False,False
+55392080,Sassy,adoptable,2022-04-25T01:08:05+0000,GA250,Atlanta,GA,Chihuahua,Adult,Female,Small,Short,True,True,False,True
+54697737,Nala (lyla),adoptable,2022-02-21T06:08:26+0000,GA299,Douglasville,GA,Labrador Retriever,Adult,Female,Medium,,True,False,False,True
+55312285,BRUCE,adoptable,2022-04-15T19:43:42+0000,GA217,Atlanta,GA,Labrador Retriever,Young,Male,Large,,True,False,False,False
+54255728,Vesimir,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55402164,50045494,adoptable,2022-04-26T00:06:13+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+52212543,Kash,adoptable,2021-07-02T20:57:38+0000,GA862,Athens,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+53249806,Louie,adoptable,2021-10-13T16:21:13+0000,GA204,Danielsville,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,True
+55368552,MarliB,adoptable,2022-04-22T00:28:09+0000,GA665,Peachtree City,GA,Australian Shepherd,Young,Female,Large,,True,True,False,True
+55078902,Howie,adoptable,2022-03-23T10:06:08+0000,GA150,Madison,GA,Australian Shepherd,Young,Male,Medium,,True,False,False,True
+52719913,BEEF,adoptable,2021-08-19T22:34:10+0000,GA217,Atlanta,GA,American Bulldog,Adult,Male,Medium,,True,False,False,False
+55118924,Herbo-ADOPTED,adoptable,2022-03-26T16:06:26+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+55302809,Rocko,adoptable,2022-04-14T19:35:21+0000,GA787,Peachtree City,GA,Rottweiler,Adult,Male,Large,,True,False,False,True
+52953757,Raggedy Ann,adoptable,2021-09-12T00:52:27+0000,GA244,Monticello,GA,Aussiedoodle,Adult,Female,Large,Curly,True,True,False,True
+54711622,Junior (run 1) ,adoptable,2022-02-22T18:35:48+0000,GA733,Columbus,GA,Mixed Breed,Adult,Male,Large,Short,True,False,False,True
+55342799,RAJII JAE,adoptable,2022-04-19T19:01:30+0000,GA217,Atlanta,GA,Siberian Husky,Young,Female,Medium,,True,False,False,False
+55282704,Joon/June,adoptable,2022-04-12T18:22:29+0000,GA207,Newnan,GA,Staffordshire Bull Terrier,Adult,Female,Large,,True,True,False,True
+55226130,Sam 18-PD012,adoptable,2022-04-06T15:38:10+0000,GA168,Perry,GA,Staffordshire Bull Terrier,Adult,Male,Medium,,True,True,False,False
+54859107,Seinna-ADOPTED,adoptable,2022-03-04T19:06:30+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55368551,BaxterB,adoptable,2022-04-22T00:28:09+0000,GA665,Peachtree City,GA,Australian Shepherd,Young,Male,Large,,True,False,False,True
+54255488,Daffodili - IN FOSTER,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55310590,Brynleigh,adoptable,2022-04-15T17:25:12+0000,GA718,Columbus,GA,Mixed Breed,Adult,Female,Large,,False,False,False,True
+55376144,Layla,adoptable,2022-04-22T20:07:52+0000,GA152,Washington,GA,Beagle,Adult,Female,Medium,Short,False,True,False,True
+54986522,Aloe Vera,adoptable,2022-03-15T18:06:23+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+55391355,Mimi,adoptable,2022-04-24T23:09:22+0000,GA994,Lawrenceville,GA,Shih Tzu,Adult,Female,Small,Long,True,False,False,True
+55259699,Penny,adoptable,2022-04-09T23:01:34+0000,GA299,Douglasville,GA,Beauceron,Adult,Female,Medium,,False,False,False,True
+54673720,Brownie,adoptable,2022-02-18T21:06:35+0000,GA70,Greensboro,GA,Terrier,Adult,Male,Medium,,True,False,False,False
+54255604,Roxie Pops,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Female,Medium,,True,False,False,False
+55169323,Diana 02-1436,adoptable,2022-03-31T19:25:11+0000,GA926,Tyrone,GA,Pointer,Baby,Female,Small,,False,False,False,True
+47880690,Duke,adoptable,2020-04-26T21:49:34+0000,GA667,Newnan,GA,Great Pyrenees,Adult,Male,Large,Long,True,False,False,True
+55144140,Garlond,adoptable,2022-03-29T17:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55322112,Tofie and Wiggles,adoptable,2022-04-17T00:01:10+0000,GA662,Atlanta,GA,Chihuahua,Adult,Female,Small,,True,False,False,True
+55337591,Beau,adoptable,2022-04-19T07:29:02+0000,GA1042,Atlanta,GA,Chihuahua,Adult,Male,Small,Short,True,True,False,True
+34276515,Yanni,adoptable,2016-01-19T15:21:05+0000,GA667,Newnan,GA,Great Pyrenees,Young,Male,Extra Large,Long,True,False,False,True
+54281120,Jenny,adoptable,2022-01-18T21:01:33+0000,GA914,Decatur,GA,Shepherd,Adult,Female,Large,Short,True,True,False,True
+53073826,Grace,adoptable,2021-09-24T06:58:12+0000,GA132,Newnan,GA,Labrador Retriever,Baby,Female,Medium,,False,True,False,True
+55390628,Tuspots,adoptable,2022-04-24T21:06:14+0000,GA335,Atlanta,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55392023,SIMP,adoptable,2022-04-25T00:57:57+0000,GA217,Atlanta,GA,Boxer,Adult,Male,Large,,False,False,False,False
+55352060,In Foster C Barnavan,adoptable,2022-04-20T17:15:58+0000,GA357,Lawrenceville,GA,Italian Greyhound,Adult,Male,Small,,True,False,False,True
+54411038,Little Girl - Courtesy Listing,adoptable,2022-01-28T00:33:22+0000,GA788,Evans,GA,Terrier,Adult,Female,Large,,True,True,False,True
+55386251,Duncan,adoptable,2022-04-24T00:30:53+0000,GA1028,Warner Robins,GA,Border Collie,Baby,Male,Medium,,False,False,False,False
+55265903,HOCKEY,adoptable,2022-04-11T00:50:19+0000,GA217,Atlanta,GA,Black Mouth Cur,Adult,Male,Medium,,True,False,False,False
+49429706,Gidget,adoptable,2020-10-12T14:33:56+0000,GA918,Marshallville,GA,German Shepherd Dog,Adult,Female,Medium,Long,True,True,False,True
+53264200,Crash,adoptable,2021-10-14T18:08:28+0000,GA918,Marshallville,GA,Australian Kelpie,Adult,Male,Large,Long,True,True,False,True
+55298841,Olson,adoptable,2022-04-14T13:56:46+0000,GA508,Atlanta,GA,Labrador Retriever,Young,Male,Medium,,True,True,False,True
+55333616,Jasper 04-1632,adoptable,2022-04-18T19:25:22+0000,GA926,Tyrone,GA,Labrador Retriever,Baby,Male,Medium,,False,False,False,True
+55395744,Berry,adoptable,2022-04-25T15:52:30+0000,GA418,Leesburg,GA,Pomeranian,Adult,Male,Small,Long,False,False,False,True
+52929340,Peter Parker 8123,adoptable,2021-09-09T23:50:14+0000,GA181,Columbus,GA,Mixed Breed,Adult,Male,Large,,True,False,False,True
+48482483,Monty,adoptable,2020-07-14T08:55:37+0000,GA41,Dawson,GA,Basset Hound,Young,Male,Medium,,True,True,False,True
+54803751,Boyo,adoptable,2022-03-01T20:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54255680,Jango,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Male,Large,,False,False,False,False
+55259988,Judo,adoptable,2022-04-10T00:02:19+0000,GA620,Barnesville,GA,Australian Cattle Dog / Blue Heeler,Adult,Female,Medium,,False,False,False,False
+54573886,Oddish,adoptable,2022-02-10T00:06:21+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54922903,WATSON,adoptable,2022-03-10T02:42:07+0000,GA217,Atlanta,GA,Labrador Retriever,Adult,Male,Medium,,True,False,False,False
+52851909,Sabrina,adoptable,2021-09-02T10:01:50+0000,GA76,Winder,GA,Border Collie,Adult,Female,Large,,True,True,False,False
+54974549,OSCAR,adoptable,2022-03-14T21:36:53+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+55304759,Pepper,adoptable,2022-04-14T22:01:53+0000,GA1025,Waynesboro,GA,Boxer,Adult,Male,Large,,True,False,False,True
+55343373,Ellie V,adoptable,2022-04-19T19:35:16+0000,GA787,Peachtree City,GA,German Shepherd Dog,Adult,Female,Large,,True,False,False,True
+54223142,Cool Hand Luke,adoptable,2022-01-14T21:28:25+0000,GA914,Decatur,GA,Mixed Breed,Adult,Male,Large,Short,True,False,False,True
+55398120,12739,adoptable,2022-04-25T18:31:16+0000,GA247,Covington,GA,Standard Poodle,Adult,Female,Medium,,False,False,False,True
+55306019,Tarzan,adoptable,2022-04-15T00:21:21+0000,GA204,Danielsville,GA,Boxer,Adult,Male,Medium,,True,False,False,True
+55386250,Logan,adoptable,2022-04-24T00:30:53+0000,GA1028,Warner Robins,GA,Border Collie,Baby,Male,Medium,,False,False,False,False
+55265336,Graphite,adoptable,2022-04-10T23:29:02+0000,GA477,Greensboro,GA,Schnauzer,Adult,Male,Small,Long,True,False,False,True
+55086534,Bongo 03-2370,adoptable,2022-03-23T19:25:23+0000,GA926,Tyrone,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,True
+55401414,Abbie,adoptable,2022-04-25T22:48:32+0000,GA553,Warner Robins,GA,Terrier,Young,Female,Large,Short,True,True,False,True
+54861043,Gallade,adoptable,2022-03-04T21:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54793067,Dada,adoptable,2022-02-28T22:06:20+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,False,False,False,False
+54781320,Hunter,adoptable,2022-02-28T01:12:21+0000,GA52,Lawrenceville,GA,Terrier,Young,Male,Medium,Short,True,True,False,True
+55304048,Huff,adoptable,2022-04-14T20:46:20+0000,GA862,Athens,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,False
+55183587,Bismuth Jule-ADOPTED!,adoptable,2022-04-01T21:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+53225682,Ares,adoptable,2021-10-11T03:21:08+0000,GA793,Macon,GA,Labrador Retriever,Young,Male,Large,,True,True,False,True
+54255526,Tallulah,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55168820,Larry,adoptable,2022-03-31T18:58:16+0000,GA508,Atlanta,GA,Labrador Retriever,Adult,Male,Medium,,True,True,False,True
+55110724,Pen 119 Bugz,adoptable,2022-03-25T18:16:28+0000,GA357,Lawrenceville,GA,American Staffordshire Terrier,Adult,Male,Large,,True,False,False,True
+55105882,Stephen Francis aka Beau A043630,adoptable,2022-03-25T10:01:59+0000,GA993,Sharpsburg,GA,Coonhound,Adult,Male,Medium,,True,False,False,True
+54028304,Noelle,adoptable,2021-12-28T10:06:50+0000,GA150,Madison,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,True
+55068060,SNAIL,adoptable,2022-03-22T17:14:21+0000,GA217,Atlanta,GA,German Shepherd Dog,Young,Male,Small,,False,False,False,False
+54999864,BUTTERFLY,adoptable,2022-03-16T18:46:01+0000,GA99,Macon,GA,American Bulldog,Young,Female,Large,,False,False,False,False
+55397783,ADONIS,adoptable,2022-04-25T18:01:01+0000,GA217,Atlanta,GA,Labrador Retriever,Baby,Male,Small,,False,False,False,False
+55273621,CHARLOTTE,adoptable,2022-04-11T20:24:25+0000,GA99,Macon,GA,Rat Terrier,Senior,Female,Small,,True,False,False,False
+55034520,Rocket,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Mixed Breed,Adult,Male,Large,,False,False,False,True
+55290714,Miller,adoptable,2022-04-13T16:01:52+0000,GA1025,Waynesboro,GA,Pit Bull Terrier,Adult,Male,Large,,False,False,False,True
+52808917,Lilo,adoptable,2021-08-28T23:43:01+0000,GA76,Winder,GA,Great Dane,Adult,Female,Large,,True,True,False,True
+55384639,Blitz 2870,adoptable,2022-04-23T20:50:09+0000,GA181,Columbus,GA,Mixed Breed,Young,Male,Medium,,True,False,False,True
+50269249,Oreo,adoptable,2021-01-13T19:36:18+0000,GA620,Barnesville,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,True
+54255710,Dopey,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+55032783,Dublin,adoptable,2022-03-19T02:20:11+0000,GA76,Winder,GA,Chihuahua,Young,Male,Small,,True,False,False,True
+54581314,Brishon,adoptable,2022-02-10T18:06:28+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55285019,Donna,adoptable,2022-04-12T21:19:16+0000,GA862,Athens,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55067522,Mason,adoptable,2022-03-22T16:27:57+0000,GA168,Perry,GA,German Shepherd Dog,Adult,Male,Large,,True,False,False,True
+55179530,Agate Jule-ADOPTED!,adoptable,2022-04-01T17:06:22+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55365293,Dixie,adoptable,2022-04-21T19:20:32+0000,GA418,Leesburg,GA,Pit Bull Terrier,Young,Female,Medium,Short,True,True,False,True
+55278370,Pamela,adoptable,2022-04-12T14:23:33+0000,GA299,Douglasville,GA,Husky,Adult,Female,Medium,,False,False,False,True
+55034611,Jett,adoptable,2022-03-19T10:04:32+0000,GA66,Albany,GA,Bull Terrier,Adult,Male,Medium,,False,False,False,True
+55297141,Rhiannon,adoptable,2022-04-14T02:06:14+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,False,False,False,False
+55015888,Krystal,adoptable,2022-03-17T22:40:19+0000,GA553,Warner Robins,GA,Terrier,Baby,Female,Medium,Short,False,False,False,True
+54673729,Princess,adoptable,2022-02-18T21:06:41+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,False
+55205836,Jack 03-3190,adoptable,2022-04-04T19:25:10+0000,GA926,Tyrone,GA,Pit Bull Terrier,Baby,Male,Small,,False,False,False,True
+55034533,Luna,adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Terrier,Adult,Female,Small,,False,False,False,True
+55326316,Oscar,adoptable,2022-04-17T22:41:11+0000,GA680,Atlanta,GA,Terrier,Adult,Male,Small,,True,False,False,True
+54941995,Garbanzo 03-1114,adoptable,2022-03-11T18:25:15+0000,GA926,Tyrone,GA,Pit Bull Terrier,Baby,Male,Small,,False,False,False,True
+53621182,Panda,adoptable,2021-11-19T19:55:42+0000,GA535,Dunwoody,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,True
+55300499,BROADWAY,adoptable,2022-04-14T16:37:51+0000,GA99,Macon,GA,German Shepherd Dog,Adult,Female,Large,,False,False,False,False
+55146850,VIOLET,adoptable,2022-03-29T19:48:58+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Female,Medium,,True,False,False,False
+53094591,Kirby,adoptable,2021-09-26T13:10:19+0000,GA945,Chamblee,GA,Retriever,Young,Male,Large,Short,True,True,False,True
+54982213,Dh 11 Hoops Hw++,adoptable,2022-03-15T13:30:48+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Medium,,True,False,False,True
+51856417,Ryver,adoptable,2022-04-24T18:43:40+0000,GA619,Newnan,GA,Labrador Retriever,Adult,Female,Medium,Medium,True,False,False,True
+55137143,Gumbo,adoptable,2022-03-28T22:01:56+0000,GA1025,Waynesboro,GA,Mixed Breed,Baby,Female,Small,,False,False,False,True
+54814322,SCRIPT,adoptable,2022-03-02T16:35:59+0000,GA217,Atlanta,GA,Pit Bull Terrier,Young,Male,Medium,,True,False,False,False
+55229321,RICHARD,adoptable,2022-04-06T18:58:59+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,False
+55281307,Pen 155c Abby,adoptable,2022-04-12T16:30:57+0000,GA357,Lawrenceville,GA,Shepherd,Adult,Female,Medium,,True,False,False,True
+55091347,Andy,adoptable,2022-03-24T00:28:40+0000,GA1020,Jackson,GA,American Staffordshire Terrier,Baby,Male,Medium,,True,False,False,True
+54255575,Lakota,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+54309084,Tank,adoptable,2022-01-20T19:50:59+0000,GA508,Atlanta,GA,Staffordshire Bull Terrier,Adult,Male,Medium,,True,True,False,True
+54901903,Rex,adoptable,2022-03-08T17:39:42+0000,GA827,Stockbridge,GA,Husky,Adult,Male,Large,Medium,True,True,False,True
+54255708,Glamourous,adoptable,2022-01-16T22:06:38+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+55398954,Koa 04-2553,adoptable,2022-04-25T19:25:18+0000,GA926,Tyrone,GA,American Staffordshire Terrier,Adult,Female,Medium,,False,False,False,True
+54256062,Midnight- IN FOSTER,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Female,Large,,True,False,False,False
+54255558,Dusty,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+55397577,Sd-12,adoptable,2022-04-25T17:46:19+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Large,,False,False,False,True
+55160383,Lincoln,adoptable,2022-03-30T23:06:19+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54255917,Dewy - IN FOSTER,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54393840,Gadget,adoptable,2022-01-26T22:06:26+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Large,,True,False,False,False
+54992404,Homie,adoptable,2022-03-16T00:06:17+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,True,False,False,False
+54280237,EZRA,adoptable,2022-01-18T19:55:20+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,True,False,False,False
+55226982,Pen 106 Lloyd,adoptable,2022-04-06T16:45:40+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Adult,Male,Large,,True,False,False,True
+55069160,CONNELL,adoptable,2022-03-22T17:44:38+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Large,,False,False,False,False
+55208376,Mako,adoptable,2022-04-05T00:06:13+0000,GA335,Atlanta,GA,Mixed Breed,Young,Male,Large,,True,False,False,False
+49988689,Nala,adoptable,2020-12-08T10:05:27+0000,GA535,Dunwoody,GA,Boxer,Adult,Female,Large,,True,True,False,True
+54711726,Mabel (run 20),adoptable,2022-02-22T18:46:38+0000,GA733,Columbus,GA,Mixed Breed,Adult,Female,Medium,,True,False,False,True
+55366006,Finnegan 04-2148,adoptable,2022-04-21T20:25:13+0000,GA926,Tyrone,GA,Chow Chow,Baby,Female,Small,,False,False,False,True
+55294742,Tango 04-1324,adoptable,2022-04-13T21:25:16+0000,GA926,Tyrone,GA,Dachshund,Young,Male,Small,,False,False,False,True
+55330054,Precious,adoptable,2022-04-18T15:32:49+0000,GA1020,Jackson,GA,American Bulldog,Adult,Female,Medium,,False,False,False,False
+54925773,Cher,adoptable,2022-03-10T15:35:37+0000,GA152,Washington,GA,Shepherd,Adult,Female,Large,Short,False,False,False,True
+54256005,Rocky - IN FOSTER,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Senior,Male,Large,,True,False,False,False
+55206468,Brownie,adoptable,2022-04-04T20:25:23+0000,GA718,Columbus,GA,English Pointer,Adult,Male,Medium,,True,False,False,True
+55138894,RAMBO,adoptable,2022-03-29T01:45:07+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Male,Medium,,False,False,False,False
+43939244,Darwin,adoptable,2019-02-05T01:02:16+0000,GA914,Decatur,GA,Retriever,Senior,Male,Extra Large,Medium,True,False,True,True
+54253048,Rocko (in foster),adoptable,2022-01-16T22:06:15+0000,GA335,Atlanta,GA,Mixed Breed,Senior,Male,Large,,True,False,False,False
+55346173,PECAN,adoptable,2022-04-19T23:33:25+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Medium,,False,False,False,False
+54256149,Miss Bee Haven,adoptable,2022-01-16T22:06:41+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55034565,Little Miss (Baby Girl),adoptable,2022-03-19T10:04:31+0000,GA66,Albany,GA,Pit Bull Terrier,Young,Female,Medium,,False,False,False,True
+50186982,Cami,adoptable,2021-01-03T03:02:22+0000,GA914,Decatur,GA,Catahoula Leopard Dog,Senior,Female,Large,,True,True,False,True
+55183573,Margie Marinara (adopted),adoptable,2022-04-01T21:06:14+0000,GA335,Atlanta,GA,Mixed Breed,Young,Female,Large,,True,False,False,False
+54181824,TAURUS,adoptable,2022-01-11T20:53:08+0000,GA99,Macon,GA,Mixed Breed,Young,Male,Large,,True,False,False,False
+55136969,COLUMBIA,adoptable,2022-03-28T21:44:17+0000,GA217,Atlanta,GA,Pit Bull Terrier,Adult,Female,Large,,True,False,False,False
+54255766,Broly,adoptable,2022-01-16T22:06:39+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Male,Medium,,False,False,False,False
+55382415,Sd-17d Hubba,adoptable,2022-04-23T16:46:40+0000,GA357,Lawrenceville,GA,Terrier,Adult,Male,Small,,False,False,False,True
+49710624,Jupiter,adoptable,2020-11-06T02:47:22+0000,GA793,Macon,GA,Carolina Dog,Adult,Female,Medium,,True,True,False,True
+54256122,Cristina,adoptable,2022-01-16T22:06:40+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+48295391,Buddy Boy (3),adoptable,2020-06-23T10:07:04+0000,GA174,Forsyth,GA,Labrador Retriever,Adult,Male,Large,,True,True,False,True
+55131501,Strawberry Shortcake,adoptable,2022-03-28T10:03:23+0000,GA150,Madison,GA,Labrador Retriever,Baby,Female,Medium,,True,False,False,True
+54941994,Pinto 03-1116,adoptable,2022-03-11T18:25:15+0000,GA926,Tyrone,GA,Pit Bull Terrier,Baby,Male,Small,,True,False,False,True
+54912868,Winnie (aka Penny),adoptable,2022-03-09T14:53:27+0000,GA508,Atlanta,GA,Labrador Retriever,Adult,Female,Medium,,True,True,False,True
+55281148,Pen 151 Wagner,adoptable,2022-04-12T16:15:44+0000,GA357,Lawrenceville,GA,Pit Bull Terrier,Young,Male,Large,,True,False,False,True
+53889764,Coco,adoptable,2021-12-13T20:00:30+0000,GA1020,Jackson,GA,American Staffordshire Terrier,Adult,Female,Large,,True,True,False,True
+47678331,Clint Eastwood,adoptable,2020-03-22T23:48:16+0000,GA902,Augusta,GA,Shar-Pei,Adult,Male,Large,,False,False,False,False
+54255555,Aphrodite- IN FOSTER,adoptable,2022-01-16T22:06:37+0000,GA423,Chamblee,GA,Mixed Breed,Adult,Female,Large,,True,False,False,False
+55192469,STUART WIGGLE,adoptable,2022-04-03T00:11:01+0000,GA217,Atlanta,GA,Black Mouth Cur,Baby,Male,Small,,True,False,False,False
+55304165,Chica,adoptable,2022-04-14T21:00:47+0000,GA862,Athens,GA,Mixed Breed,Young,Female,Medium,,False,False,False,False
+55304095,Lana,adoptable,2022-04-14T20:52:51+0000,GA862,Athens,GA,Mixed Breed,Adult,Female,Large,,False,False,False,False
+54459136,Mitch (run 40),adoptable,2022-01-31T16:25:02+0000,GA733,Columbus,GA,Mixed Breed,Adult,Male,Large,Short,True,False,False,True
