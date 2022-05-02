@@ -10,9 +10,12 @@ Description: Analyze the population of adoptable dogs advertised on Petfinder in
 -------------------------------------------------------------------------------------------------------------------------
 (1) data_collection folder contains notebooks for generating Petfinder API requests to pull the Petfinder dataset. 
 The folder also includes the intial output CSV file. The sample size was limited to dogs in Georgia.
+
 (2) data_analysis folder contains a notebook for data cleaning and a clean version of the CSV file pulled above (dogs_clean.csv). 
 It also includes a notebook with data analysis on four parameters (Size, Gender, Age, and Location).
 The Figures folder also includes all output graphs generated from the data analysis. 
+
+(3) Presentation folder contains the powerpoint presentatio9n in PDF format and a README file that contains the summary report from our our analysis.
 
 -------------------------------------------------------------------------------------------------------------------------
 Size
