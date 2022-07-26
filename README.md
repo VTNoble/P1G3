@@ -1,4 +1,4 @@
-# EDA-Proj1-Group3
+# Petfinder-AdoptDogs-Georgia
 
 This repository holds our project for Exploratory Data Analysis.
 
